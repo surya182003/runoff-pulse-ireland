@@ -1,0 +1,250 @@
+{
+  "datasets": {
+    "met_rainfall_daily": {
+      "id": "met_rainfall_daily",
+      "publisher": "Met Éireann",
+      "licence": "CC BY 4.0 (Met Éireann; data has been modified: filtered to the study period)",
+      "crs": "EPSG:4326 (station point)",
+      "data_status": "REAL_OBSERVATION",
+      "station": {
+        "id": "3904",
+        "name": "Cork Airport",
+        "lon": -8.486,
+        "lat": 51.847
+      },
+      "title": "Daily rainfall, Cork Airport (Met Éireann climate archive)",
+      "file": "rainfall_daily.csv",
+      "source_url": "https://clidata.met.ie/cli/climate_data/webdata/dly3904.csv",
+      "retrieved_at": "2026-10-17T10:37:11Z",
+      "record_count": 4291,
+      "period": [
+        "2015-01-01",
+        "2026-09-30"
+      ],
+      "notes": "Precipitation amount (mm), 00-24 UTC. Filtered from 2015-01-01. Blank values kept as null. Indicator codes: https://www.met.ie/cms/assets/uploads/2018/05/KeyDly_Rain.txt"
+    },
+    "met_rainfall_hourly": {
+      "id": "met_rainfall_hourly",
+      "publisher": "Met Éireann",
+      "licence": "CC BY 4.0 (Met Éireann; data has been modified: filtered to the study period)",
+      "crs": "EPSG:4326 (station point)",
+      "data_status": "REAL_OBSERVATION",
+      "station": {
+        "id": "3904",
+        "name": "Cork Airport",
+        "lon": -8.486,
+        "lat": 51.847
+      },
+      "title": "Hourly rainfall, Cork Airport (Met Éireann climate archive)",
+      "file": "rainfall_hourly.csv",
+      "source_url": "https://clidata.met.ie/cli/climate_data/webdata/hly3904.csv",
+      "retrieved_at": "2026-10-17T10:37:12Z",
+      "record_count": 32857,
+      "period": [
+        "2023-01-01T00:00Z",
+        "2026-10-01T00:00Z"
+      ],
+      "notes": "Hourly precipitation (mm), UTC. Filtered from 2023-01-01. Indicator codes: https://www.met.ie/cms/assets/uploads/2018/05/KeyHourly.txt"
+    },
+    "met_rainfall_recent": {
+      "id": "met_rainfall_recent",
+      "publisher": "Met Éireann",
+      "licence": "CC BY 4.0 (Met Éireann; data has been modified: filtered to the study period)",
+      "crs": "EPSG:4326 (station point)",
+      "data_status": "REAL_OBSERVATION",
+      "station": {
+        "id": "3904",
+        "name": "Cork Airport",
+        "lon": -8.486,
+        "lat": 51.847
+      },
+      "title": "Latest hourly reports, Cork Airport (Met Éireann)",
+      "file": "rainfall_recent_hourly.csv",
+      "source_url": "https://prodapi.met.ie/observations/cork/yesterday, https://prodapi.met.ie/observations/cork/today",
+      "retrieved_at": "2026-10-17T10:37:35Z",
+      "record_count": 36,
+      "period": [
+        "2026-10-15T23:00Z",
+        "2026-10-17T10:00Z"
+      ],
+      "notes": "Snapshots of the yesterday/today latest-report feed, appended on every acquisition run. Report times are Irish local time converted to UTC. These are provisional, unquality-controlled reports; the climate archive supersedes them when available. Gaps between the archive end and the first snapshot are left as gaps."
+    },
+    "epa_bathing_locations": {
+      "id": "epa_bathing_locations",
+      "title": "Identified bathing waters in the study area",
+      "file": "bathing_locations.geojson",
+      "publisher": "EPA Ireland (beaches.ie)",
+      "source_url": "https://data.epa.ie/bw/api/v1/locations",
+      "licence": "CC BY 4.0 (EPA Ireland bathing water open data)",
+      "retrieved_at": "2026-10-17T11:29:39Z",
+      "crs": "EPSG:4326 (converted from Irish Grid EPSG:29903; verified against known beach positions)",
+      "record_count": 11,
+      "data_status": "OFFICIAL_ASSESSMENT",
+      "notes": "Annual classification is the official multi-year EU Bathing Water Directive assessment."
+    },
+    "epa_bathing_measurements": {
+      "id": "epa_bathing_measurements",
+      "title": "Bathing water bacteriological results (E. coli, intestinal enterococci)",
+      "file": "bathing_measurements.csv",
+      "publisher": "EPA Ireland (beaches.ie)",
+      "source_url": "https://data.epa.ie/bw/api/v1/measurements",
+      "licence": "CC BY 4.0 (EPA Ireland bathing water open data)",
+      "retrieved_at": "2026-10-17T11:29:40Z",
+      "crs": "n/a (joined to bathing_locations by beach_id)",
+      "record_count": 1682,
+      "period": [
+        "2014-05-26",
+        "2026-09-07"
+      ],
+      "data_status": "REAL_OBSERVATION",
+      "notes": "Sampled during the bathing season only (typically June-mid September), so results are seasonal, not continuous. Censored values (e.g. '<10') keep their qualifier. Unit recorded as count/100 ml because the API does not state cfu vs MPN."
+    },
+    "epa_bathing_alerts": {
+      "id": "epa_bathing_alerts",
+      "title": "Active bathing water alerts / incidents (national)",
+      "file": "bathing_alerts.json",
+      "publisher": "EPA Ireland (beaches.ie)",
+      "source_url": "https://data.epa.ie/bw/api/v1/alerts",
+      "licence": "CC BY 4.0 (EPA Ireland bathing water open data)",
+      "retrieved_at": "2026-10-17T11:30:02Z",
+      "crs": "n/a",
+      "record_count": 0,
+      "data_status": "OFFICIAL_ADVISORY",
+      "notes": "Only currently active alerts are published by the API. Zero records means no active alert at retrieval time, not a statement that water is safe."
+    },
+    "opw_water_levels": {
+      "id": "opw_water_levels",
+      "title": "OPW hydrometric stations: latest water level and temperature (snapshot)",
+      "file": "opw_latest.geojson (+ opw_series/*.json 30-day level series)",
+      "publisher": "Office of Public Works (OPW), waterlevel.ie",
+      "source_url": "https://waterlevel.ie/geojson/latest/",
+      "licence": "Not verified by RunoffPulse: review the waterlevel.ie disclaimer/terms before redistribution. Attribution: Office of Public Works (OPW)",
+      "retrieved_at": "2026-10-17T15:41:24Z",
+      "crs": "EPSG:4326",
+      "record_count": 218,
+      "station_count": 74,
+      "series_count": 69,
+      "data_status": "REAL_OBSERVATION",
+      "notes": "Provisional real-time data, not quality-controlled. The API also serves this feed live (cached); this file is the fallback snapshot. Logger voltage (sensor 0003) excluded."
+    },
+    "epa_catchment": {
+      "id": "epa_catchment",
+      "title": "WFD Catchment 19: Lee, Cork Harbour and Youghal Bay",
+      "file": "catchment.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:WFD_Catchments",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:40:41Z",
+      "crs": "EPSG:4326",
+      "record_count": 1,
+      "data_status": "REAL_REFERENCE_GEOMETRY",
+      "notes": "Official EPA WFD catchment polygon used to define the study area and catchment membership. Geometry simplified (~10-15 m tolerance) for web display."
+    },
+    "epa_subcatchments": {
+      "id": "epa_subcatchments",
+      "title": "WFD sub-catchments within Catchment 19",
+      "file": "subcatchments.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:WFD_SubCatchments",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:40:41Z",
+      "crs": "EPSG:4326",
+      "record_count": 18,
+      "data_status": "REAL_REFERENCE_GEOMETRY",
+      "notes": "Official EPA WFD sub-catchment polygons. Geometry simplified for web display."
+    },
+    "epa_monitoring_stations": {
+      "id": "epa_monitoring_stations",
+      "title": "EPA water monitoring station locations (Cork Harbour / River Lee study area)",
+      "file": "monitoring_stations.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:MON_WaterStations",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:40:44Z",
+      "crs": "EPSG:4326",
+      "record_count": 668,
+      "data_status": "REAL_STATION_LOCATION",
+      "notes": "Station locations and attributes only. A station location does not imply a measured result or pollution. Server-side BBOX filter, then local validation: MultiPoint geometries normalised to Point, duplicate StationIDs and invalid coordinates rejected. in_study_catchment is a point-in-polygon test against WFD Catchment 19. Rejections: {'outside study area': 98}."
+    },
+    "epa_waterbodies": {
+      "id": "epa_waterbodies",
+      "title": "WFD transitional and coastal waterbodies with latest WFD status",
+      "file": "waterbodies.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:WFD_TRANSITIONALWATERBODIES_CYCLE3 + EPA:WFD_COASTALWATERBODIES_CYCLE3",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:40:47Z",
+      "crs": "EPSG:4326",
+      "record_count": 30,
+      "data_status": "OFFICIAL_ASSESSMENT",
+      "notes": "Official WFD (Cycle 3) waterbody polygons joined by EU code to the EPA latest-status layers (TWB/CWB_WFD_LatestStatus). WFD status is a multi-year ecological assessment, not a current measurement. AdjacentHydrometricArea is the EPA attribute used for catchment-to-waterbody linkage."
+    },
+    "epa_rivers": {
+      "id": "epa_rivers",
+      "title": "WFD river waterbodies in Catchment 19 with latest WFD status",
+      "file": "rivers.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:RWB_WFD_LatestStatus",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:40:53Z",
+      "crs": "EPSG:4326",
+      "record_count": 118,
+      "data_status": "OFFICIAL_ASSESSMENT",
+      "notes": "River waterbody lines intersecting the WFD catchment polygon (20 m buffer). Status is the official multi-year WFD ecological status, not a current measurement."
+    },
+    "epa_shellfish_waters": {
+      "id": "epa_shellfish_waters",
+      "title": "Designated Shellfish Waters (WFD Register of Protected Areas)",
+      "file": "shellfish_waters.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:WFD_RPA_SHELLFISH",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:41:02Z",
+      "crs": "EPSG:4326",
+      "record_count": 7,
+      "data_status": "OFFICIAL_DESIGNATION",
+      "notes": "Designated shellfish-water protected areas. These are NOT the SFPA classified bivalve production areas and carry no harvesting classification, biotoxin or closure status. Catchment linkage uses the parent waterbody's EPA AdjacentHydrometricArea attribute."
+    },
+    "epa_pressures": {
+      "id": "epa_pressures",
+      "title": "WFD significant pressures on waterbodies (agriculture, urban waste water, urban run-off)",
+      "file": "pressures.json",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:41:03Z",
+      "crs": "n/a (attribute table; geometry used only for catchment intersection)",
+      "record_count": 78,
+      "data_status": "OFFICIAL_ASSESSMENT",
+      "notes": "WFD Cycle 3 significant-pressure designations. Context only: a designated pressure is not evidence that a specific event was caused by that pressure."
+    },
+    "epa_bathing_training_samples": {
+      "id": "epa_bathing_training_samples",
+      "title": "Bathing water results within 60 km of Cork Airport (ML training set)",
+      "file": "bathing_training_samples.csv",
+      "publisher": "EPA Ireland (beaches.ie)",
+      "source_url": "https://data.epa.ie/bw/api/v1/measurements",
+      "licence": "CC BY 4.0 (EPA Ireland bathing water open data)",
+      "retrieved_at": "2026-10-17T11:29:40Z",
+      "crs": "EPSG:4326 (converted from Irish Grid EPSG:29903)",
+      "record_count": 1858,
+      "beach_count": 24,
+      "data_status": "REAL_OBSERVATION",
+      "notes": "Used only to train and evaluate the bathing-water ML model (scripts/train_bathing_model.py). Beaches within 60 km of the Met Éireann Cork Airport gauge so that one rain gauge is broadly representative."
+    },
+    "epa_screened_catchments": {
+      "id": "epa_screened_catchments",
+      "title": "WFD catchments connected for screening (Blackwater, Lee, Bandon-Ilen)",
+      "file": "screened_catchments.geojson",
+      "publisher": "Environmental Protection Agency (EPA) Ireland",
+      "source_url": "https://gis.epa.ie/geoserver/EPA/ows?service=WFS&request=GetFeature&typeName=EPA:WFD_Catchments",
+      "licence": "CC BY 4.0 (EPA Ireland open data; attribution: Environmental Protection Agency)",
+      "retrieved_at": "2026-10-17T15:40:43Z",
+      "crs": "EPSG:4326",
+      "record_count": 3,
+      "data_status": "REAL_REFERENCE_GEOMETRY",
+      "notes": "Official EPA catchment polygons used to assign OPW river gauges to the catchment that feeds each coastal area. Simplified (~100 m) because they are used for gauge assignment, not display."
+    }
+  },
+  "updated_at": "2026-10-17T15:41:33Z"
+}

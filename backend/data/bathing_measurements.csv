@@ -1,0 +1,1683 @@
+monitoring_result_id,beach_id,beach_name,result_date,indicator,value_raw,value,qualifier,unit,sample_water_quality_status
+8238,BPNBF050000230001,Ring (Greenlands Strand),2014-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+8238,BPNBF050000230001,Ring (Greenlands Strand),2014-05-26,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+8288,BPNBF050000300001,Oysterhaven,2014-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+8288,BPNBF050000300001,Oysterhaven,2014-05-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8336,BPNBF050000330001,Ardnahinch,2014-05-26,E. coli,10,10.0,,count/100 ml,Excellent
+8336,BPNBF050000330001,Ardnahinch,2014-05-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3249,IESWBWC020_0000_0100,Redbarn,2014-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+3249,IESWBWC020_0000_0100,Redbarn,2014-05-26,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+3250,IESWBWC020_0000_0200,Youghal Claycastle,2014-05-26,E. coli,71,71.0,,count/100 ml,Excellent
+3250,IESWBWC020_0000_0200,Youghal Claycastle,2014-05-26,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+3253,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-05-26,E. coli,218,218.0,,count/100 ml,Excellent
+3253,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-05-26,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+3254,IESWBWC040_0000_0100,Garryvoe,2014-05-26,E. coli,120,120.0,,count/100 ml,Excellent
+3254,IESWBWC040_0000_0100,Garryvoe,2014-05-26,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+3256,IESWBWC050_0000_0100,Fountainstown,2014-05-26,E. coli,10,10.0,,count/100 ml,Excellent
+3256,IESWBWC050_0000_0100,Fountainstown,2014-05-26,Intestinal enterococci,40,40.0,,count/100 ml,Excellent
+3248,IESWBWC020_0000_0100,Redbarn,2014-06-03,E. coli,31,31.0,,count/100 ml,Excellent
+3248,IESWBWC020_0000_0100,Redbarn,2014-06-03,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+3251,IESWBWC020_0000_0200,Youghal Claycastle,2014-06-03,E. coli,31,31.0,,count/100 ml,Excellent
+3251,IESWBWC020_0000_0200,Youghal Claycastle,2014-06-03,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+3252,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-06-03,E. coli,74,74.0,,count/100 ml,Excellent
+3252,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-06-03,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+3257,IESWBWC050_0000_0100,Fountainstown,2014-06-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+3257,IESWBWC050_0000_0100,Fountainstown,2014-06-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3386,IESWBWC020_0000_0100,Redbarn,2014-06-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+3386,IESWBWC020_0000_0100,Redbarn,2014-06-09,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3387,IESWBWC020_0000_0200,Youghal Claycastle,2014-06-09,E. coli,10,10.0,,count/100 ml,Excellent
+3387,IESWBWC020_0000_0200,Youghal Claycastle,2014-06-09,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+3388,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-06-09,E. coli,10,10.0,,count/100 ml,Excellent
+3388,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-06-09,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+3389,IESWBWC040_0000_0100,Garryvoe,2014-06-09,E. coli,179,179.0,,count/100 ml,Excellent
+3389,IESWBWC040_0000_0100,Garryvoe,2014-06-09,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+8289,BPNBF050000300001,Oysterhaven,2014-06-16,E. coli,<10,10.0,<,count/100 ml,Excellent
+8289,BPNBF050000300001,Oysterhaven,2014-06-16,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3469,IESWBWC050_0000_0100,Fountainstown,2014-06-16,E. coli,40,40.0,,count/100 ml,Excellent
+3469,IESWBWC050_0000_0100,Fountainstown,2014-06-16,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+8239,BPNBF050000230001,Ring (Greenlands Strand),2014-06-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+8239,BPNBF050000230001,Ring (Greenlands Strand),2014-06-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8337,BPNBF050000330001,Ardnahinch,2014-06-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+8337,BPNBF050000330001,Ardnahinch,2014-06-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3550,IESWBWC020_0000_0100,Redbarn,2014-06-23,E. coli,86,86.0,,count/100 ml,Excellent
+3550,IESWBWC020_0000_0100,Redbarn,2014-06-23,Intestinal enterococci,31,31.0,,count/100 ml,Excellent
+3551,IESWBWC020_0000_0200,Youghal Claycastle,2014-06-23,E. coli,86,86.0,,count/100 ml,Excellent
+3551,IESWBWC020_0000_0200,Youghal Claycastle,2014-06-23,Intestinal enterococci,42,42.0,,count/100 ml,Excellent
+3552,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-06-23,E. coli,96,96.0,,count/100 ml,Excellent
+3552,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-06-23,Intestinal enterococci,27,27.0,,count/100 ml,Excellent
+3553,IESWBWC040_0000_0100,Garryvoe,2014-06-23,E. coli,10,10.0,,count/100 ml,Excellent
+3553,IESWBWC040_0000_0100,Garryvoe,2014-06-23,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+3651,IESWBWC050_0000_0100,Fountainstown,2014-06-30,E. coli,135,135.0,,count/100 ml,Excellent
+3651,IESWBWC050_0000_0100,Fountainstown,2014-06-30,Intestinal enterococci,72,72.0,,count/100 ml,Excellent
+8290,BPNBF050000300001,Oysterhaven,2014-07-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+8290,BPNBF050000300001,Oysterhaven,2014-07-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3696,IESWBWC020_0000_0100,Redbarn,2014-07-07,E. coli,20,20.0,,count/100 ml,Excellent
+3696,IESWBWC020_0000_0100,Redbarn,2014-07-07,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+3697,IESWBWC020_0000_0200,Youghal Claycastle,2014-07-07,E. coli,75,75.0,,count/100 ml,Excellent
+3697,IESWBWC020_0000_0200,Youghal Claycastle,2014-07-07,Intestinal enterococci,23,23.0,,count/100 ml,Excellent
+3698,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-07-07,E. coli,233,233.0,,count/100 ml,Excellent
+3698,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-07-07,Intestinal enterococci,41,41.0,,count/100 ml,Excellent
+3699,IESWBWC040_0000_0100,Garryvoe,2014-07-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+3699,IESWBWC040_0000_0100,Garryvoe,2014-07-07,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+8291,BPNBF050000300001,Oysterhaven,2014-07-14,E. coli,20,20.0,,count/100 ml,Excellent
+8291,BPNBF050000300001,Oysterhaven,2014-07-14,Intestinal enterococci,63,63.0,,count/100 ml,Excellent
+3856,IESWBWC050_0000_0100,Fountainstown,2014-07-14,E. coli,166,166.0,,count/100 ml,Excellent
+3856,IESWBWC050_0000_0100,Fountainstown,2014-07-14,Intestinal enterococci,36,36.0,,count/100 ml,Excellent
+8240,BPNBF050000230001,Ring (Greenlands Strand),2014-07-21,E. coli,52,52.0,,count/100 ml,Excellent
+8240,BPNBF050000230001,Ring (Greenlands Strand),2014-07-21,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+8338,BPNBF050000330001,Ardnahinch,2014-07-21,E. coli,<10,10.0,<,count/100 ml,Excellent
+8338,BPNBF050000330001,Ardnahinch,2014-07-21,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+3939,IESWBWC020_0000_0100,Redbarn,2014-07-21,E. coli,98,98.0,,count/100 ml,Excellent
+3939,IESWBWC020_0000_0100,Redbarn,2014-07-21,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+3940,IESWBWC020_0000_0200,Youghal Claycastle,2014-07-21,E. coli,474,474.0,,count/100 ml,Good
+3940,IESWBWC020_0000_0200,Youghal Claycastle,2014-07-21,Intestinal enterococci,23,23.0,,count/100 ml,Good
+3941,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-07-21,E. coli,638,638.0,,count/100 ml,Sufficient
+3941,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-07-21,Intestinal enterococci,38,38.0,,count/100 ml,Sufficient
+3942,IESWBWC040_0000_0100,Garryvoe,2014-07-21,E. coli,148,148.0,,count/100 ml,Excellent
+3942,IESWBWC040_0000_0100,Garryvoe,2014-07-21,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+4011,IESWBWC050_0000_0100,Fountainstown,2014-07-28,E. coli,10,10.0,,count/100 ml,Excellent
+4011,IESWBWC050_0000_0100,Fountainstown,2014-07-28,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+4182,IESWBWC020_0000_0100,Redbarn,2014-08-05,E. coli,41,41.0,,count/100 ml,Excellent
+4182,IESWBWC020_0000_0100,Redbarn,2014-08-05,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+4183,IESWBWC020_0000_0200,Youghal Claycastle,2014-08-05,E. coli,84,84.0,,count/100 ml,Excellent
+4183,IESWBWC020_0000_0200,Youghal Claycastle,2014-08-05,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+4184,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-08-05,E. coli,160,160.0,,count/100 ml,Excellent
+4184,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-08-05,Intestinal enterococci,36,36.0,,count/100 ml,Excellent
+4186,IESWBWC040_0000_0100,Garryvoe,2014-08-05,E. coli,578,578.0,,count/100 ml,Poor
+4186,IESWBWC040_0000_0100,Garryvoe,2014-08-05,Intestinal enterococci,460,460.0,,count/100 ml,Poor
+4187,IESWBWC050_0000_0100,Fountainstown,2014-08-05,E. coli,<10,10.0,<,count/100 ml,Excellent
+4187,IESWBWC050_0000_0100,Fountainstown,2014-08-05,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+8292,BPNBF050000300001,Oysterhaven,2014-08-11,E. coli,121,121.0,,count/100 ml,Excellent
+8292,BPNBF050000300001,Oysterhaven,2014-08-11,Intestinal enterococci,37,37.0,,count/100 ml,Excellent
+4169,IESWBWC050_0000_0100,Fountainstown,2014-08-11,E. coli,41,41.0,,count/100 ml,Excellent
+4169,IESWBWC050_0000_0100,Fountainstown,2014-08-11,Intestinal enterococci,32,32.0,,count/100 ml,Excellent
+8241,BPNBF050000230001,Ring (Greenlands Strand),2014-08-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+8241,BPNBF050000230001,Ring (Greenlands Strand),2014-08-18,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+8339,BPNBF050000330001,Ardnahinch,2014-08-18,E. coli,10,10.0,,count/100 ml,Excellent
+8339,BPNBF050000330001,Ardnahinch,2014-08-18,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+4294,IESWBWC020_0000_0100,Redbarn,2014-08-18,E. coli,10,10.0,,count/100 ml,Excellent
+4294,IESWBWC020_0000_0100,Redbarn,2014-08-18,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+4295,IESWBWC020_0000_0200,Youghal Claycastle,2014-08-18,E. coli,97,97.0,,count/100 ml,Excellent
+4295,IESWBWC020_0000_0200,Youghal Claycastle,2014-08-18,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+4296,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-08-18,E. coli,179,179.0,,count/100 ml,Excellent
+4296,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-08-18,Intestinal enterococci,22,22.0,,count/100 ml,Excellent
+4297,IESWBWC040_0000_0100,Garryvoe,2014-08-18,E. coli,31,31.0,,count/100 ml,Excellent
+4297,IESWBWC040_0000_0100,Garryvoe,2014-08-18,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+4298,IESWBWC050_0000_0100,Fountainstown,2014-08-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+4298,IESWBWC050_0000_0100,Fountainstown,2014-08-18,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+4383,IESWBWC020_0000_0100,Redbarn,2014-08-25,E. coli,31,31.0,,count/100 ml,Excellent
+4383,IESWBWC020_0000_0100,Redbarn,2014-08-25,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+4384,IESWBWC020_0000_0200,Youghal Claycastle,2014-08-25,E. coli,282,282.0,,count/100 ml,Good
+4384,IESWBWC020_0000_0200,Youghal Claycastle,2014-08-25,Intestinal enterococci,25,25.0,,count/100 ml,Good
+4385,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-08-25,E. coli,195,195.0,,count/100 ml,Excellent
+4385,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-08-25,Intestinal enterococci,29,29.0,,count/100 ml,Excellent
+4386,IESWBWC040_0000_0100,Garryvoe,2014-08-25,E. coli,865,865.0,,count/100 ml,Sufficient
+4386,IESWBWC040_0000_0100,Garryvoe,2014-08-25,Intestinal enterococci,80,80.0,,count/100 ml,Sufficient
+8293,BPNBF050000300001,Oysterhaven,2014-09-01,E. coli,31,31.0,,count/100 ml,Excellent
+8293,BPNBF050000300001,Oysterhaven,2014-09-01,Intestinal enterococci,38,38.0,,count/100 ml,Excellent
+4489,IESWBWC020_0000_0100,Redbarn,2014-09-01,E. coli,132,132.0,,count/100 ml,Excellent
+4489,IESWBWC020_0000_0100,Redbarn,2014-09-01,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+4490,IESWBWC020_0000_0200,Youghal Claycastle,2014-09-01,E. coli,119,119.0,,count/100 ml,Excellent
+4490,IESWBWC020_0000_0200,Youghal Claycastle,2014-09-01,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+4491,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-09-01,E. coli,98,98.0,,count/100 ml,Excellent
+4491,IESWBWC020_0000_0300,Youghal Front Strand Beach,2014-09-01,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+4493,IESWBWC050_0000_0100,Fountainstown,2014-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+4493,IESWBWC050_0000_0100,Fountainstown,2014-09-01,Intestinal enterococci,67,67.0,,count/100 ml,Excellent
+8242,BPNBF050000230001,Ring (Greenlands Strand),2014-09-08,E. coli,233,233.0,,count/100 ml,Excellent
+8242,BPNBF050000230001,Ring (Greenlands Strand),2014-09-08,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+8340,BPNBF050000330001,Ardnahinch,2014-09-08,E. coli,10,10.0,,count/100 ml,Excellent
+8340,BPNBF050000330001,Ardnahinch,2014-09-08,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+4609,IESWBWC040_0000_0100,Garryvoe,2014-09-08,E. coli,164,164.0,,count/100 ml,Excellent
+4609,IESWBWC040_0000_0100,Garryvoe,2014-09-08,Intestinal enterococci,32,32.0,,count/100 ml,Excellent
+8243,BPNBF050000230001,Ring (Greenlands Strand),2015-05-27,E. coli,10,10.0,,count/100 ml,Excellent
+8243,BPNBF050000230001,Ring (Greenlands Strand),2015-05-27,Intestinal enterococci,24,24.0,,count/100 ml,Excellent
+8294,BPNBF050000300001,Oysterhaven,2015-05-27,E. coli,10,10.0,,count/100 ml,Excellent
+8294,BPNBF050000300001,Oysterhaven,2015-05-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8314,BPNBF050000320001,Rocky Bay,2015-05-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+8314,BPNBF050000320001,Rocky Bay,2015-05-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8341,BPNBF050000330001,Ardnahinch,2015-05-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+8341,BPNBF050000330001,Ardnahinch,2015-05-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+4773,IESWBWC020_0000_0100,Redbarn,2015-05-27,E. coli,10,10.0,,count/100 ml,Excellent
+4773,IESWBWC020_0000_0100,Redbarn,2015-05-27,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+4774,IESWBWC020_0000_0200,Youghal Claycastle,2015-05-27,E. coli,121,121.0,,count/100 ml,Excellent
+4774,IESWBWC020_0000_0200,Youghal Claycastle,2015-05-27,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+4755,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-05-27,E. coli,75,75.0,,count/100 ml,Excellent
+4755,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-05-27,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+4775,IESWBWC040_0000_0100,Garryvoe,2015-05-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+4775,IESWBWC040_0000_0100,Garryvoe,2015-05-27,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+4776,IESWBWC050_0000_0100,Fountainstown,2015-05-27,E. coli,10,10.0,,count/100 ml,Excellent
+4776,IESWBWC050_0000_0100,Fountainstown,2015-05-27,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+4971,IESWBWC020_0000_0100,Redbarn,2015-06-02,E. coli,272,272.0,,count/100 ml,Poor
+4971,IESWBWC020_0000_0100,Redbarn,2015-06-02,Intestinal enterococci,350,350.0,,count/100 ml,Poor
+4972,IESWBWC020_0000_0200,Youghal Claycastle,2015-06-02,E. coli,107,107.0,,count/100 ml,Excellent
+4972,IESWBWC020_0000_0200,Youghal Claycastle,2015-06-02,Intestinal enterococci,70,70.0,,count/100 ml,Excellent
+4974,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-06-02,E. coli,86,86.0,,count/100 ml,Excellent
+4974,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-06-02,Intestinal enterococci,57,57.0,,count/100 ml,Excellent
+4976,IESWBWC040_0000_0100,Garryvoe,2015-06-02,E. coli,275,275.0,,count/100 ml,Good
+4976,IESWBWC040_0000_0100,Garryvoe,2015-06-02,Intestinal enterococci,82,82.0,,count/100 ml,Good
+4978,IESWBWC050_0000_0100,Fountainstown,2015-06-02,E. coli,86,86.0,,count/100 ml,Excellent
+4978,IESWBWC050_0000_0100,Fountainstown,2015-06-02,Intestinal enterococci,30,30.0,,count/100 ml,Excellent
+4970,IESWBWC020_0000_0100,Redbarn,2015-06-08,E. coli,109,109.0,,count/100 ml,Excellent
+4970,IESWBWC020_0000_0100,Redbarn,2015-06-08,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+4973,IESWBWC020_0000_0200,Youghal Claycastle,2015-06-08,E. coli,86,86.0,,count/100 ml,Excellent
+4973,IESWBWC020_0000_0200,Youghal Claycastle,2015-06-08,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+4975,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-06-08,E. coli,98,98.0,,count/100 ml,Excellent
+4975,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-06-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+4977,IESWBWC040_0000_0100,Garryvoe,2015-06-08,E. coli,63,63.0,,count/100 ml,Excellent
+4977,IESWBWC040_0000_0100,Garryvoe,2015-06-08,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+8295,BPNBF050000300001,Oysterhaven,2015-06-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+8295,BPNBF050000300001,Oysterhaven,2015-06-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8315,BPNBF050000320001,Rocky Bay,2015-06-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+8315,BPNBF050000320001,Rocky Bay,2015-06-15,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+5035,IESWBWC050_0000_0100,Fountainstown,2015-06-15,E. coli,30,30.0,,count/100 ml,Excellent
+5035,IESWBWC050_0000_0100,Fountainstown,2015-06-15,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+8244,BPNBF050000230001,Ring (Greenlands Strand),2015-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+8244,BPNBF050000230001,Ring (Greenlands Strand),2015-06-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8342,BPNBF050000330001,Ardnahinch,2015-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+8342,BPNBF050000330001,Ardnahinch,2015-06-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+5093,IESWBWC020_0000_0100,Redbarn,2015-06-22,E. coli,31,31.0,,count/100 ml,Excellent
+5093,IESWBWC020_0000_0100,Redbarn,2015-06-22,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+5094,IESWBWC020_0000_0200,Youghal Claycastle,2015-06-22,E. coli,52,52.0,,count/100 ml,Excellent
+5094,IESWBWC020_0000_0200,Youghal Claycastle,2015-06-22,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+5095,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-06-22,E. coli,31,31.0,,count/100 ml,Excellent
+5095,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-06-22,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+5096,IESWBWC040_0000_0100,Garryvoe,2015-06-22,E. coli,10,10.0,,count/100 ml,Excellent
+5096,IESWBWC040_0000_0100,Garryvoe,2015-06-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+5169,IESWBWC050_0000_0100,Fountainstown,2015-06-29,E. coli,134,134.0,,count/100 ml,Excellent
+5169,IESWBWC050_0000_0100,Fountainstown,2015-06-29,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+5331,IESWBWC020_0000_0100,Redbarn,2015-07-09,E. coli,110,110.0,,count/100 ml,Excellent
+5331,IESWBWC020_0000_0100,Redbarn,2015-07-09,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+5332,IESWBWC020_0000_0200,Youghal Claycastle,2015-07-09,E. coli,598,598.0,,count/100 ml,Sufficient
+5332,IESWBWC020_0000_0200,Youghal Claycastle,2015-07-09,Intestinal enterococci,120,120.0,,count/100 ml,Sufficient
+5333,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-07-09,E. coli,175,175.0,,count/100 ml,Excellent
+5333,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-07-09,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+5334,IESWBWC040_0000_0100,Garryvoe,2015-07-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+5334,IESWBWC040_0000_0100,Garryvoe,2015-07-09,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+8296,BPNBF050000300001,Oysterhaven,2015-07-14,E. coli,10,10.0,,count/100 ml,Excellent
+8296,BPNBF050000300001,Oysterhaven,2015-07-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8316,BPNBF050000320001,Rocky Bay,2015-07-14,E. coli,1414,1414.0,,count/100 ml,Poor
+8316,BPNBF050000320001,Rocky Bay,2015-07-14,Intestinal enterococci,210,210.0,,count/100 ml,Poor
+5552,IESWBWC050_0000_0100,Fountainstown,2015-07-14,E. coli,481,481.0,,count/100 ml,Good
+5552,IESWBWC050_0000_0100,Fountainstown,2015-07-14,Intestinal enterococci,130,130.0,,count/100 ml,Good
+8317,BPNBF050000320001,Rocky Bay,2015-07-15,E. coli,10,10.0,,count/100 ml,Excellent
+8317,BPNBF050000320001,Rocky Bay,2015-07-15,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+8245,BPNBF050000230001,Ring (Greenlands Strand),2015-07-22,E. coli,20,20.0,,count/100 ml,Excellent
+8245,BPNBF050000230001,Ring (Greenlands Strand),2015-07-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+8343,BPNBF050000330001,Ardnahinch,2015-07-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+8343,BPNBF050000330001,Ardnahinch,2015-07-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+5547,IESWBWC020_0000_0100,Redbarn,2015-07-22,E. coli,120,120.0,,count/100 ml,Excellent
+5547,IESWBWC020_0000_0100,Redbarn,2015-07-22,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+5549,IESWBWC020_0000_0200,Youghal Claycastle,2015-07-22,E. coli,122,122.0,,count/100 ml,Excellent
+5549,IESWBWC020_0000_0200,Youghal Claycastle,2015-07-22,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+5550,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-07-22,E. coli,246,246.0,,count/100 ml,Excellent
+5550,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-07-22,Intestinal enterococci,33,33.0,,count/100 ml,Excellent
+5551,IESWBWC040_0000_0100,Garryvoe,2015-07-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+5551,IESWBWC040_0000_0100,Garryvoe,2015-07-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+5638,IESWBWC050_0000_0100,Fountainstown,2015-07-29,E. coli,20,20.0,,count/100 ml,Excellent
+5638,IESWBWC050_0000_0100,Fountainstown,2015-07-29,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+5678,IESWBWC020_0000_0100,Redbarn,2015-08-04,E. coli,<10,10.0,<,count/100 ml,Excellent
+5678,IESWBWC020_0000_0100,Redbarn,2015-08-04,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+5679,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-04,E. coli,158,158.0,,count/100 ml,Excellent
+5679,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-04,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+5680,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-04,E. coli,309,309.0,,count/100 ml,Good
+5680,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-04,Intestinal enterococci,18,18.0,,count/100 ml,Good
+5681,IESWBWC040_0000_0100,Garryvoe,2015-08-04,E. coli,309,309.0,,count/100 ml,Good
+5681,IESWBWC040_0000_0100,Garryvoe,2015-08-04,Intestinal enterococci,76,76.0,,count/100 ml,Good
+5682,IESWBWC050_0000_0100,Fountainstown,2015-08-04,E. coli,98,98.0,,count/100 ml,Excellent
+5682,IESWBWC050_0000_0100,Fountainstown,2015-08-04,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+8297,BPNBF050000300001,Oysterhaven,2015-08-10,E. coli,75,75.0,,count/100 ml,Excellent
+8297,BPNBF050000300001,Oysterhaven,2015-08-10,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+8318,BPNBF050000320001,Rocky Bay,2015-08-10,E. coli,10,10.0,,count/100 ml,Excellent
+8318,BPNBF050000320001,Rocky Bay,2015-08-10,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+5743,IESWBWC050_0000_0100,Fountainstown,2015-08-10,E. coli,52,52.0,,count/100 ml,Excellent
+5743,IESWBWC050_0000_0100,Fountainstown,2015-08-10,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+8246,BPNBF050000230001,Ring (Greenlands Strand),2015-08-17,E. coli,10,10.0,,count/100 ml,Excellent
+8246,BPNBF050000230001,Ring (Greenlands Strand),2015-08-17,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+8344,BPNBF050000330001,Ardnahinch,2015-08-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+8344,BPNBF050000330001,Ardnahinch,2015-08-17,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+5857,IESWBWC020_0000_0100,Redbarn,2015-08-17,E. coli,148,148.0,,count/100 ml,Excellent
+5857,IESWBWC020_0000_0100,Redbarn,2015-08-17,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+5858,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-17,E. coli,249,249.0,,count/100 ml,Excellent
+5858,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-17,Intestinal enterococci,36,36.0,,count/100 ml,Excellent
+5859,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-17,E. coli,173,173.0,,count/100 ml,Excellent
+5859,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-17,Intestinal enterococci,41,41.0,,count/100 ml,Excellent
+5860,IESWBWC040_0000_0100,Garryvoe,2015-08-17,E. coli,959,959.0,,count/100 ml,Sufficient
+5860,IESWBWC040_0000_0100,Garryvoe,2015-08-17,Intestinal enterococci,49,49.0,,count/100 ml,Sufficient
+5861,IESWBWC050_0000_0100,Fountainstown,2015-08-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+5861,IESWBWC050_0000_0100,Fountainstown,2015-08-17,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+5953,IESWBWC020_0000_0100,Redbarn,2015-08-24,E. coli,10,10.0,,count/100 ml,Excellent
+5953,IESWBWC020_0000_0100,Redbarn,2015-08-24,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+5954,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-24,E. coli,109,109.0,,count/100 ml,Excellent
+5954,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-24,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+5955,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-24,E. coli,148,148.0,,count/100 ml,Excellent
+5955,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-24,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+5956,IESWBWC040_0000_0100,Garryvoe,2015-08-24,E. coli,10,10.0,,count/100 ml,Excellent
+5956,IESWBWC040_0000_0100,Garryvoe,2015-08-24,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8298,BPNBF050000300001,Oysterhaven,2015-08-31,E. coli,52,52.0,,count/100 ml,Excellent
+8298,BPNBF050000300001,Oysterhaven,2015-08-31,Intestinal enterococci,43,43.0,,count/100 ml,Excellent
+8319,BPNBF050000320001,Rocky Bay,2015-08-31,E. coli,<10,10.0,<,count/100 ml,Excellent
+8319,BPNBF050000320001,Rocky Bay,2015-08-31,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+6032,IESWBWC020_0000_0100,Redbarn,2015-08-31,E. coli,41,41.0,,count/100 ml,Excellent
+6032,IESWBWC020_0000_0100,Redbarn,2015-08-31,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+6033,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-31,E. coli,73,73.0,,count/100 ml,Excellent
+6033,IESWBWC020_0000_0200,Youghal Claycastle,2015-08-31,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+6034,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-31,E. coli,238,238.0,,count/100 ml,Excellent
+6034,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-08-31,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+6035,IESWBWC050_0000_0100,Fountainstown,2015-08-31,E. coli,75,75.0,,count/100 ml,Excellent
+6035,IESWBWC050_0000_0100,Fountainstown,2015-08-31,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+8247,BPNBF050000230001,Ring (Greenlands Strand),2015-09-07,E. coli,73,73.0,,count/100 ml,Excellent
+8247,BPNBF050000230001,Ring (Greenlands Strand),2015-09-07,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+8345,BPNBF050000330001,Ardnahinch,2015-09-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+8345,BPNBF050000330001,Ardnahinch,2015-09-07,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+6205,IESWBWC020_0000_0100,Redbarn,2015-09-07,E. coli,189,189.0,,count/100 ml,Excellent
+6205,IESWBWC020_0000_0100,Redbarn,2015-09-07,Intestinal enterococci,36,36.0,,count/100 ml,Excellent
+6206,IESWBWC020_0000_0200,Youghal Claycastle,2015-09-07,E. coli,309,309.0,,count/100 ml,Good
+6206,IESWBWC020_0000_0200,Youghal Claycastle,2015-09-07,Intestinal enterococci,48,48.0,,count/100 ml,Good
+6207,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-09-07,E. coli,305,305.0,,count/100 ml,Good
+6207,IESWBWC020_0000_0300,Youghal Front Strand Beach,2015-09-07,Intestinal enterococci,36,36.0,,count/100 ml,Good
+6208,IESWBWC040_0000_0100,Garryvoe,2015-09-07,E. coli,414,414.0,,count/100 ml,Good
+6208,IESWBWC040_0000_0100,Garryvoe,2015-09-07,Intestinal enterococci,38,38.0,,count/100 ml,Good
+6209,IESWBWC050_0000_0100,Fountainstown,2015-09-08,E. coli,52,52.0,,count/100 ml,Excellent
+6209,IESWBWC050_0000_0100,Fountainstown,2015-09-08,Intestinal enterococci,26,26.0,,count/100 ml,Excellent
+8248,BPNBF050000230001,Ring (Greenlands Strand),2016-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+8248,BPNBF050000230001,Ring (Greenlands Strand),2016-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8299,BPNBF050000300001,Oysterhaven,2016-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+8299,BPNBF050000300001,Oysterhaven,2016-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8320,BPNBF050000320001,Rocky Bay,2016-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+8320,BPNBF050000320001,Rocky Bay,2016-05-23,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+8346,BPNBF050000330001,Ardnahinch,2016-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+8346,BPNBF050000330001,Ardnahinch,2016-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+6304,IESWBWC020_0000_0100,Redbarn,2016-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+6304,IESWBWC020_0000_0100,Redbarn,2016-05-23,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+6305,IESWBWC020_0000_0200,Youghal Claycastle,2016-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+6305,IESWBWC020_0000_0200,Youghal Claycastle,2016-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+6306,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+6306,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+6307,IESWBWC040_0000_0100,Garryvoe,2016-05-23,E. coli,74,74.0,,count/100 ml,Excellent
+6307,IESWBWC040_0000_0100,Garryvoe,2016-05-23,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+6308,IESWBWC050_0000_0100,Fountainstown,2016-05-23,E. coli,20,20.0,,count/100 ml,Excellent
+6308,IESWBWC050_0000_0100,Fountainstown,2016-05-23,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+6461,IESWBWC020_0000_0100,Redbarn,2016-06-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+6461,IESWBWC020_0000_0100,Redbarn,2016-06-07,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+6462,IESWBWC020_0000_0200,Youghal Claycastle,2016-06-07,E. coli,10,10.0,,count/100 ml,Excellent
+6462,IESWBWC020_0000_0200,Youghal Claycastle,2016-06-07,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+6463,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-06-07,E. coli,10,10.0,,count/100 ml,Excellent
+6463,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-06-07,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+6464,IESWBWC040_0000_0100,Garryvoe,2016-06-07,E. coli,10,10.0,,count/100 ml,Excellent
+6464,IESWBWC040_0000_0100,Garryvoe,2016-06-07,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+8300,BPNBF050000300001,Oysterhaven,2016-06-13,E. coli,10,10.0,,count/100 ml,Excellent
+8300,BPNBF050000300001,Oysterhaven,2016-06-13,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8321,BPNBF050000320001,Rocky Bay,2016-06-13,E. coli,41,41.0,,count/100 ml,Excellent
+8321,BPNBF050000320001,Rocky Bay,2016-06-13,Intestinal enterococci,32,32.0,,count/100 ml,Excellent
+6556,IESWBWC050_0000_0100,Fountainstown,2016-06-13,E. coli,86,86.0,,count/100 ml,Excellent
+6556,IESWBWC050_0000_0100,Fountainstown,2016-06-13,Intestinal enterococci,37,37.0,,count/100 ml,Excellent
+8249,BPNBF050000230001,Ring (Greenlands Strand),2016-06-20,E. coli,<10,10.0,<,count/100 ml,Excellent
+8249,BPNBF050000230001,Ring (Greenlands Strand),2016-06-20,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8347,BPNBF050000330001,Ardnahinch,2016-06-20,E. coli,<10,10.0,<,count/100 ml,Excellent
+8347,BPNBF050000330001,Ardnahinch,2016-06-20,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+6612,IESWBWC020_0000_0100,Redbarn,2016-06-20,E. coli,20,20.0,,count/100 ml,Excellent
+6612,IESWBWC020_0000_0100,Redbarn,2016-06-20,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+6613,IESWBWC020_0000_0200,Youghal Claycastle,2016-06-20,E. coli,41,41.0,,count/100 ml,Excellent
+6613,IESWBWC020_0000_0200,Youghal Claycastle,2016-06-20,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+6614,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-06-20,E. coli,10,10.0,,count/100 ml,Excellent
+6614,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-06-20,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+6615,IESWBWC040_0000_0100,Garryvoe,2016-06-20,E. coli,<10,10.0,<,count/100 ml,Excellent
+6615,IESWBWC040_0000_0100,Garryvoe,2016-06-20,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+6701,IESWBWC050_0000_0100,Fountainstown,2016-06-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+6701,IESWBWC050_0000_0100,Fountainstown,2016-06-27,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+6846,IESWBWC020_0000_0100,Redbarn,2016-07-04,E. coli,52,52.0,,count/100 ml,Excellent
+6846,IESWBWC020_0000_0100,Redbarn,2016-07-04,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+6847,IESWBWC020_0000_0200,Youghal Claycastle,2016-07-04,E. coli,<10,10.0,<,count/100 ml,Excellent
+6847,IESWBWC020_0000_0200,Youghal Claycastle,2016-07-04,Intestinal enterococci,75,75.0,,count/100 ml,Excellent
+6848,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-07-04,E. coli,63,63.0,,count/100 ml,Excellent
+6848,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-07-04,Intestinal enterococci,22,22.0,,count/100 ml,Excellent
+6849,IESWBWC040_0000_0100,Garryvoe,2016-07-04,E. coli,31,31.0,,count/100 ml,Excellent
+6849,IESWBWC040_0000_0100,Garryvoe,2016-07-04,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+8301,BPNBF050000300001,Oysterhaven,2016-07-11,E. coli,63,63.0,,count/100 ml,Excellent
+8301,BPNBF050000300001,Oysterhaven,2016-07-11,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+6923,IESWBWC050_0000_0100,Fountainstown,2016-07-11,E. coli,20,20.0,,count/100 ml,Excellent
+6923,IESWBWC050_0000_0100,Fountainstown,2016-07-11,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+8322,BPNBF050000320001,Rocky Bay,2016-07-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+8322,BPNBF050000320001,Rocky Bay,2016-07-12,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+8250,BPNBF050000230001,Ring (Greenlands Strand),2016-07-18,E. coli,10,10.0,,count/100 ml,Excellent
+8250,BPNBF050000230001,Ring (Greenlands Strand),2016-07-18,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8348,BPNBF050000330001,Ardnahinch,2016-07-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+8348,BPNBF050000330001,Ardnahinch,2016-07-18,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7004,IESWBWC020_0000_0100,Redbarn,2016-07-18,E. coli,31,31.0,,count/100 ml,Excellent
+7004,IESWBWC020_0000_0100,Redbarn,2016-07-18,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+7005,IESWBWC020_0000_0200,Youghal Claycastle,2016-07-18,E. coli,121,121.0,,count/100 ml,Excellent
+7005,IESWBWC020_0000_0200,Youghal Claycastle,2016-07-18,Intestinal enterococci,25,25.0,,count/100 ml,Excellent
+7006,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-07-18,E. coli,213,213.0,,count/100 ml,Excellent
+7006,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-07-18,Intestinal enterococci,62,62.0,,count/100 ml,Excellent
+7007,IESWBWC040_0000_0100,Garryvoe,2016-07-18,E. coli,10,10.0,,count/100 ml,Excellent
+7007,IESWBWC040_0000_0100,Garryvoe,2016-07-18,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+7145,IESWBWC050_0000_0100,Fountainstown,2016-07-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+7145,IESWBWC050_0000_0100,Fountainstown,2016-07-25,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+7209,IESWBWC020_0000_0100,Redbarn,2016-08-02,E. coli,10,10.0,,count/100 ml,Excellent
+7209,IESWBWC020_0000_0100,Redbarn,2016-08-02,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+7210,IESWBWC020_0000_0200,Youghal Claycastle,2016-08-02,E. coli,121,121.0,,count/100 ml,Excellent
+7210,IESWBWC020_0000_0200,Youghal Claycastle,2016-08-02,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+7211,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-08-02,E. coli,173,173.0,,count/100 ml,Excellent
+7211,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-08-02,Intestinal enterococci,51,51.0,,count/100 ml,Excellent
+7212,IESWBWC040_0000_0100,Garryvoe,2016-08-02,E. coli,884,884.0,,count/100 ml,Sufficient
+7212,IESWBWC040_0000_0100,Garryvoe,2016-08-02,Intestinal enterococci,111,111.0,,count/100 ml,Sufficient
+8302,BPNBF050000300001,Oysterhaven,2016-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+8302,BPNBF050000300001,Oysterhaven,2016-08-08,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+8323,BPNBF050000320001,Rocky Bay,2016-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+8323,BPNBF050000320001,Rocky Bay,2016-08-08,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+7280,IESWBWC050_0000_0100,Fountainstown,2016-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+7280,IESWBWC050_0000_0100,Fountainstown,2016-08-08,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+8251,BPNBF050000230001,Ring (Greenlands Strand),2016-08-15,E. coli,41,41.0,,count/100 ml,Excellent
+8251,BPNBF050000230001,Ring (Greenlands Strand),2016-08-15,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+8349,BPNBF050000330001,Ardnahinch,2016-08-15,E. coli,63,63.0,,count/100 ml,Excellent
+8349,BPNBF050000330001,Ardnahinch,2016-08-15,Intestinal enterococci,15,15.0,,count/100 ml,Excellent
+7372,IESWBWC020_0000_0100,Redbarn,2016-08-15,E. coli,20,20.0,,count/100 ml,Excellent
+7372,IESWBWC020_0000_0100,Redbarn,2016-08-15,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+7373,IESWBWC020_0000_0200,Youghal Claycastle,2016-08-15,E. coli,187,187.0,,count/100 ml,Excellent
+7373,IESWBWC020_0000_0200,Youghal Claycastle,2016-08-15,Intestinal enterococci,26,26.0,,count/100 ml,Excellent
+7374,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-08-15,E. coli,52,52.0,,count/100 ml,Excellent
+7374,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-08-15,Intestinal enterococci,97,97.0,,count/100 ml,Excellent
+7375,IESWBWC040_0000_0100,Garryvoe,2016-08-15,E. coli,86,86.0,,count/100 ml,Excellent
+7375,IESWBWC040_0000_0100,Garryvoe,2016-08-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7376,IESWBWC050_0000_0100,Fountainstown,2016-08-15,E. coli,121,121.0,,count/100 ml,Excellent
+7376,IESWBWC050_0000_0100,Fountainstown,2016-08-15,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+8303,BPNBF050000300001,Oysterhaven,2016-08-29,E. coli,<10,10.0,<,count/100 ml,Excellent
+8303,BPNBF050000300001,Oysterhaven,2016-08-29,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+8324,BPNBF050000320001,Rocky Bay,2016-08-29,E. coli,10,10.0,,count/100 ml,Excellent
+8324,BPNBF050000320001,Rocky Bay,2016-08-29,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+7585,IESWBWC020_0000_0100,Redbarn,2016-08-29,E. coli,10,10.0,,count/100 ml,Excellent
+7585,IESWBWC020_0000_0100,Redbarn,2016-08-29,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7586,IESWBWC020_0000_0200,Youghal Claycastle,2016-08-29,E. coli,31,31.0,,count/100 ml,Excellent
+7586,IESWBWC020_0000_0200,Youghal Claycastle,2016-08-29,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+7587,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-08-29,E. coli,565,565.0,,count/100 ml,Sufficient
+7587,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-08-29,Intestinal enterococci,67,67.0,,count/100 ml,Sufficient
+7588,IESWBWC040_0000_0100,Garryvoe,2016-08-29,E. coli,10,10.0,,count/100 ml,Excellent
+7588,IESWBWC040_0000_0100,Garryvoe,2016-08-29,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+7589,IESWBWC050_0000_0100,Fountainstown,2016-08-29,E. coli,41,41.0,,count/100 ml,Excellent
+7589,IESWBWC050_0000_0100,Fountainstown,2016-08-29,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+8252,BPNBF050000230001,Ring (Greenlands Strand),2016-09-05,E. coli,20,20.0,,count/100 ml,Excellent
+8252,BPNBF050000230001,Ring (Greenlands Strand),2016-09-05,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+8350,BPNBF050000330001,Ardnahinch,2016-09-05,E. coli,52,52.0,,count/100 ml,Excellent
+8350,BPNBF050000330001,Ardnahinch,2016-09-05,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7644,IESWBWC020_0000_0100,Redbarn,2016-09-05,E. coli,20,20.0,,count/100 ml,Excellent
+7644,IESWBWC020_0000_0100,Redbarn,2016-09-05,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+7645,IESWBWC020_0000_0200,Youghal Claycastle,2016-09-05,E. coli,209,209.0,,count/100 ml,Excellent
+7645,IESWBWC020_0000_0200,Youghal Claycastle,2016-09-05,Intestinal enterococci,38,38.0,,count/100 ml,Excellent
+7646,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-09-05,E. coli,171,171.0,,count/100 ml,Excellent
+7646,IESWBWC020_0000_0300,Youghal Front Strand Beach,2016-09-05,Intestinal enterococci,37,37.0,,count/100 ml,Excellent
+7647,IESWBWC040_0000_0100,Garryvoe,2016-09-05,E. coli,20,20.0,,count/100 ml,Excellent
+7647,IESWBWC040_0000_0100,Garryvoe,2016-09-05,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+7732,IESWBWC050_0000_0100,Fountainstown,2016-09-08,E. coli,10,10.0,,count/100 ml,Excellent
+7732,IESWBWC050_0000_0100,Fountainstown,2016-09-08,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+9839,BPNBF050000230001,Ring (Greenlands Strand),2017-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+9839,BPNBF050000230001,Ring (Greenlands Strand),2017-05-22,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+9841,BPNBF050000300001,Oysterhaven,2017-05-22,E. coli,20,20.0,,count/100 ml,Excellent
+9841,BPNBF050000300001,Oysterhaven,2017-05-22,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+9843,BPNBF050000320001,Rocky Bay,2017-05-22,E. coli,20,20.0,,count/100 ml,Excellent
+9843,BPNBF050000320001,Rocky Bay,2017-05-22,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+9845,BPNBF050000330001,Ardnahinch,2017-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+9845,BPNBF050000330001,Ardnahinch,2017-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7940,IESWBWC020_0000_0100,Redbarn,2017-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+7940,IESWBWC020_0000_0100,Redbarn,2017-05-22,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+7941,IESWBWC020_0000_0200,Youghal Claycastle,2017-05-22,E. coli,73,73.0,,count/100 ml,Excellent
+7941,IESWBWC020_0000_0200,Youghal Claycastle,2017-05-22,Intestinal enterococci,34,34.0,,count/100 ml,Excellent
+7942,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-05-22,E. coli,85,85.0,,count/100 ml,Excellent
+7942,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-05-22,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+7946,IESWBWC050_0000_0100,Fountainstown,2017-05-22,E. coli,75,75.0,,count/100 ml,Excellent
+7946,IESWBWC050_0000_0100,Fountainstown,2017-05-22,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+10387,IESWBWC040_0000_0100,Garryvoe,2017-05-31,E. coli,20,20.0,,count/100 ml,Excellent
+10387,IESWBWC040_0000_0100,Garryvoe,2017-05-31,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7979,IESWBWC020_0000_0100,Redbarn,2017-06-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+7979,IESWBWC020_0000_0100,Redbarn,2017-06-06,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+7980,IESWBWC020_0000_0200,Youghal Claycastle,2017-06-06,E. coli,41,41.0,,count/100 ml,Excellent
+7980,IESWBWC020_0000_0200,Youghal Claycastle,2017-06-06,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+7981,IESWBWC040_0000_0100,Garryvoe,2017-06-06,E. coli,132,132.0,,count/100 ml,Excellent
+7981,IESWBWC040_0000_0100,Garryvoe,2017-06-06,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+8002,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-06-07,E. coli,373,373.0,,count/100 ml,Good
+8002,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-06-07,Intestinal enterococci,28,28.0,,count/100 ml,Good
+9842,BPNBF050000300001,Oysterhaven,2017-06-12,E. coli,161,161.0,,count/100 ml,Excellent
+9842,BPNBF050000300001,Oysterhaven,2017-06-12,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+9844,BPNBF050000320001,Rocky Bay,2017-06-12,E. coli,41,41.0,,count/100 ml,Excellent
+9844,BPNBF050000320001,Rocky Bay,2017-06-12,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+8084,IESWBWC050_0000_0100,Fountainstown,2017-06-12,E. coli,20,20.0,,count/100 ml,Excellent
+8084,IESWBWC050_0000_0100,Fountainstown,2017-06-12,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+9878,BPNBF050000230001,Ring (Greenlands Strand),2017-06-19,E. coli,<10,10.0,<,count/100 ml,Excellent
+9878,BPNBF050000230001,Ring (Greenlands Strand),2017-06-19,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+9879,BPNBF050000330001,Ardnahinch,2017-06-19,E. coli,<10,10.0,<,count/100 ml,Excellent
+9879,BPNBF050000330001,Ardnahinch,2017-06-19,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+9873,IESWBWC020_0000_0100,Redbarn,2017-06-19,E. coli,30,30.0,,count/100 ml,Excellent
+9873,IESWBWC020_0000_0100,Redbarn,2017-06-19,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+9870,IESWBWC020_0000_0200,Youghal Claycastle,2017-06-19,E. coli,197,197.0,,count/100 ml,Excellent
+9870,IESWBWC020_0000_0200,Youghal Claycastle,2017-06-19,Intestinal enterococci,28,28.0,,count/100 ml,Excellent
+9875,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-06-19,E. coli,144,144.0,,count/100 ml,Excellent
+9875,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-06-19,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+9869,IESWBWC040_0000_0100,Garryvoe,2017-06-19,E. coli,<10,10.0,<,count/100 ml,Excellent
+9869,IESWBWC040_0000_0100,Garryvoe,2017-06-19,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+10028,IESWBWC050_0000_0100,Fountainstown,2017-06-26,E. coli,52,52.0,,count/100 ml,Excellent
+10028,IESWBWC050_0000_0100,Fountainstown,2017-06-26,Intestinal enterococci,23,23.0,,count/100 ml,Excellent
+10155,IESWBWC020_0000_0100,Redbarn,2017-07-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+10155,IESWBWC020_0000_0100,Redbarn,2017-07-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+10152,IESWBWC020_0000_0200,Youghal Claycastle,2017-07-03,E. coli,86,86.0,,count/100 ml,Excellent
+10152,IESWBWC020_0000_0200,Youghal Claycastle,2017-07-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+10157,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-07-03,E. coli,368,368.0,,count/100 ml,Good
+10157,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-07-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Good
+10149,IESWBWC040_0000_0100,Garryvoe,2017-07-03,E. coli,52,52.0,,count/100 ml,Excellent
+10149,IESWBWC040_0000_0100,Garryvoe,2017-07-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+10306,BPNBF050000300001,Oysterhaven,2017-07-10,E. coli,84,84.0,,count/100 ml,Excellent
+10306,BPNBF050000300001,Oysterhaven,2017-07-10,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+10307,BPNBF050000320001,Rocky Bay,2017-07-10,E. coli,86,86.0,,count/100 ml,Excellent
+10307,BPNBF050000320001,Rocky Bay,2017-07-10,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+10294,IESWBWC050_0000_0100,Fountainstown,2017-07-10,E. coli,20,20.0,,count/100 ml,Excellent
+10294,IESWBWC050_0000_0100,Fountainstown,2017-07-10,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+10432,BPNBF050000230001,Ring (Greenlands Strand),2017-07-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+10432,BPNBF050000230001,Ring (Greenlands Strand),2017-07-17,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+10433,BPNBF050000330001,Ardnahinch,2017-07-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+10433,BPNBF050000330001,Ardnahinch,2017-07-17,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+10421,IESWBWC020_0000_0100,Redbarn,2017-07-17,E. coli,10,10.0,,count/100 ml,Excellent
+10421,IESWBWC020_0000_0100,Redbarn,2017-07-17,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+10418,IESWBWC020_0000_0200,Youghal Claycastle,2017-07-17,E. coli,75,75.0,,count/100 ml,Excellent
+10418,IESWBWC020_0000_0200,Youghal Claycastle,2017-07-17,Intestinal enterococci,28,28.0,,count/100 ml,Excellent
+10423,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-07-17,E. coli,121,121.0,,count/100 ml,Excellent
+10423,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-07-17,Intestinal enterococci,32,32.0,,count/100 ml,Excellent
+10415,IESWBWC040_0000_0100,Garryvoe,2017-07-17,E. coli,31,31.0,,count/100 ml,Excellent
+10415,IESWBWC040_0000_0100,Garryvoe,2017-07-17,Intestinal enterococci,27,27.0,,count/100 ml,Excellent
+10540,IESWBWC050_0000_0100,Fountainstown,2017-07-24,E. coli,<10,10.0,<,count/100 ml,Excellent
+10540,IESWBWC050_0000_0100,Fountainstown,2017-07-24,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+10709,IESWBWC020_0000_0100,Redbarn,2017-07-31,E. coli,20,20.0,,count/100 ml,Excellent
+10709,IESWBWC020_0000_0100,Redbarn,2017-07-31,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+10703,IESWBWC020_0000_0200,Youghal Claycastle,2017-07-31,E. coli,63,63.0,,count/100 ml,Excellent
+10703,IESWBWC020_0000_0200,Youghal Claycastle,2017-07-31,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+10714,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-07-31,E. coli,<10,10.0,<,count/100 ml,Excellent
+10714,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-07-31,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+10700,IESWBWC040_0000_0100,Garryvoe,2017-07-31,E. coli,<10,10.0,<,count/100 ml,Excellent
+10700,IESWBWC040_0000_0100,Garryvoe,2017-07-31,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+10802,BPNBF050000300001,Oysterhaven,2017-08-08,E. coli,336,336.0,,count/100 ml,Good
+10802,BPNBF050000300001,Oysterhaven,2017-08-08,Intestinal enterococci,40,40.0,,count/100 ml,Good
+10803,BPNBF050000320001,Rocky Bay,2017-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+10803,BPNBF050000320001,Rocky Bay,2017-08-08,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+10795,IESWBWC050_0000_0100,Fountainstown,2017-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+10795,IESWBWC050_0000_0100,Fountainstown,2017-08-08,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+10898,BPNBF050000230001,Ring (Greenlands Strand),2017-08-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+10898,BPNBF050000230001,Ring (Greenlands Strand),2017-08-14,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+10899,BPNBF050000330001,Ardnahinch,2017-08-14,E. coli,504,504.0,,count/100 ml,Poor
+10899,BPNBF050000330001,Ardnahinch,2017-08-14,Intestinal enterococci,270,270.0,,count/100 ml,Poor
+10893,IESWBWC020_0000_0100,Redbarn,2017-08-14,E. coli,52,52.0,,count/100 ml,Excellent
+10893,IESWBWC020_0000_0100,Redbarn,2017-08-14,Intestinal enterococci,25,25.0,,count/100 ml,Excellent
+10889,IESWBWC020_0000_0200,Youghal Claycastle,2017-08-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+10889,IESWBWC020_0000_0200,Youghal Claycastle,2017-08-14,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+10895,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-08-14,E. coli,31,31.0,,count/100 ml,Excellent
+10895,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-08-14,Intestinal enterococci,68,68.0,,count/100 ml,Excellent
+10886,IESWBWC040_0000_0100,Garryvoe,2017-08-14,E. coli,31,31.0,,count/100 ml,Excellent
+10886,IESWBWC040_0000_0100,Garryvoe,2017-08-14,Intestinal enterococci,64,64.0,,count/100 ml,Excellent
+10890,IESWBWC050_0000_0100,Fountainstown,2017-08-14,E. coli,20,20.0,,count/100 ml,Excellent
+10890,IESWBWC050_0000_0100,Fountainstown,2017-08-14,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+10988,BPNBF050000330001,Ardnahinch,2017-08-16,E. coli,95,95.0,,count/100 ml,Excellent
+10988,BPNBF050000330001,Ardnahinch,2017-08-16,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+11208,BPNBF050000300001,Oysterhaven,2017-08-28,E. coli,134,134.0,,count/100 ml,Excellent
+11208,BPNBF050000300001,Oysterhaven,2017-08-28,Intestinal enterococci,69,69.0,,count/100 ml,Excellent
+11209,BPNBF050000320001,Rocky Bay,2017-08-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+11209,BPNBF050000320001,Rocky Bay,2017-08-28,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+11204,IESWBWC020_0000_0100,Redbarn,2017-08-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+11204,IESWBWC020_0000_0100,Redbarn,2017-08-28,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+11200,IESWBWC020_0000_0200,Youghal Claycastle,2017-08-28,E. coli,110,110.0,,count/100 ml,Excellent
+11200,IESWBWC020_0000_0200,Youghal Claycastle,2017-08-28,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+11206,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-08-28,E. coli,209,209.0,,count/100 ml,Excellent
+11206,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-08-28,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+11199,IESWBWC040_0000_0100,Garryvoe,2017-08-28,E. coli,20,20.0,,count/100 ml,Excellent
+11199,IESWBWC040_0000_0100,Garryvoe,2017-08-28,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+11202,IESWBWC050_0000_0100,Fountainstown,2017-08-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+11202,IESWBWC050_0000_0100,Fountainstown,2017-08-28,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+11335,BPNBF050000230001,Ring (Greenlands Strand),2017-09-04,E. coli,31,31.0,,count/100 ml,Excellent
+11335,BPNBF050000230001,Ring (Greenlands Strand),2017-09-04,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+11337,BPNBF050000330001,Ardnahinch,2017-09-04,E. coli,86,86.0,,count/100 ml,Excellent
+11337,BPNBF050000330001,Ardnahinch,2017-09-04,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+11322,IESWBWC020_0000_0100,Redbarn,2017-09-04,E. coli,85,85.0,,count/100 ml,Excellent
+11322,IESWBWC020_0000_0100,Redbarn,2017-09-04,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+11315,IESWBWC020_0000_0200,Youghal Claycastle,2017-09-04,E. coli,16,16.0,,count/100 ml,Excellent
+11315,IESWBWC020_0000_0200,Youghal Claycastle,2017-09-04,Intestinal enterococci,31,31.0,,count/100 ml,Excellent
+11325,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-09-04,E. coli,173,173.0,,count/100 ml,Good
+11325,IESWBWC020_0000_0300,Youghal Front Strand Beach,2017-09-04,Intestinal enterococci,110,110.0,,count/100 ml,Good
+11312,IESWBWC040_0000_0100,Garryvoe,2017-09-04,E. coli,1046,1046.0,,count/100 ml,Poor
+11312,IESWBWC040_0000_0100,Garryvoe,2017-09-04,Intestinal enterococci,250,250.0,,count/100 ml,Poor
+11318,IESWBWC050_0000_0100,Fountainstown,2017-09-04,E. coli,420,420.0,,count/100 ml,Good
+11318,IESWBWC050_0000_0100,Fountainstown,2017-09-04,Intestinal enterococci,160,160.0,,count/100 ml,Good
+11930,BPNBF050000230001,Ring (Greenlands Strand),2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+11930,BPNBF050000230001,Ring (Greenlands Strand),2018-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+11932,BPNBF050000300001,Oysterhaven,2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+11932,BPNBF050000300001,Oysterhaven,2018-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+11933,BPNBF050000320001,Rocky Bay,2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+11933,BPNBF050000320001,Rocky Bay,2018-05-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+11934,BPNBF050000330001,Ardnahinch,2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+11934,BPNBF050000330001,Ardnahinch,2018-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23911,BPNBF050000420001,Ballynamona Strand,2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+23911,BPNBF050000420001,Ballynamona Strand,2018-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+11920,IESWBWC020_0000_0100,Redbarn,2018-05-22,E. coli,31,31.0,,count/100 ml,Excellent
+11920,IESWBWC020_0000_0100,Redbarn,2018-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+11914,IESWBWC020_0000_0200,Youghal Claycastle,2018-05-22,E. coli,41,41.0,,count/100 ml,Excellent
+11914,IESWBWC020_0000_0200,Youghal Claycastle,2018-05-22,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+11912,IESWBWC040_0000_0100,Garryvoe,2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+11912,IESWBWC040_0000_0100,Garryvoe,2018-05-22,Intestinal enterococci,30,30.0,,count/100 ml,Excellent
+11916,IESWBWC050_0000_0100,Fountainstown,2018-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+11916,IESWBWC050_0000_0100,Fountainstown,2018-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12157,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-05-31,E. coli,41,41.0,,count/100 ml,Excellent
+12157,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-05-31,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+12152,IESWBWC020_0000_0100,Redbarn,2018-06-05,E. coli,86,86.0,,count/100 ml,Excellent
+12152,IESWBWC020_0000_0100,Redbarn,2018-06-05,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+12145,IESWBWC020_0000_0200,Youghal Claycastle,2018-06-05,E. coli,20,20.0,,count/100 ml,Excellent
+12145,IESWBWC020_0000_0200,Youghal Claycastle,2018-06-05,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+12158,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-06-05,E. coli,20,20.0,,count/100 ml,Excellent
+12158,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-06-05,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+12131,IESWBWC040_0000_0100,Garryvoe,2018-06-05,E. coli,4106,4106.0,,count/100 ml,Poor
+12131,IESWBWC040_0000_0100,Garryvoe,2018-06-05,Intestinal enterococci,110,110.0,,count/100 ml,Poor
+12295,BPNBF050000300001,Oysterhaven,2018-06-11,E. coli,146,146.0,,count/100 ml,Excellent
+12295,BPNBF050000300001,Oysterhaven,2018-06-11,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+12296,BPNBF050000320001,Rocky Bay,2018-06-11,E. coli,30,30.0,,count/100 ml,Excellent
+12296,BPNBF050000320001,Rocky Bay,2018-06-11,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+12286,IESWBWC050_0000_0100,Fountainstown,2018-06-11,E. coli,73,73.0,,count/100 ml,Excellent
+12286,IESWBWC050_0000_0100,Fountainstown,2018-06-11,Intestinal enterococci,54,54.0,,count/100 ml,Excellent
+12415,BPNBF050000230001,Ring (Greenlands Strand),2018-06-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+12415,BPNBF050000230001,Ring (Greenlands Strand),2018-06-18,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12416,BPNBF050000330001,Ardnahinch,2018-06-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+12416,BPNBF050000330001,Ardnahinch,2018-06-18,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+23912,BPNBF050000420001,Ballynamona Strand,2018-06-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+23912,BPNBF050000420001,Ballynamona Strand,2018-06-18,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+12410,IESWBWC020_0000_0100,Redbarn,2018-06-18,E. coli,10,10.0,,count/100 ml,Excellent
+12410,IESWBWC020_0000_0100,Redbarn,2018-06-18,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+12407,IESWBWC020_0000_0200,Youghal Claycastle,2018-06-18,E. coli,10,10.0,,count/100 ml,Excellent
+12407,IESWBWC020_0000_0200,Youghal Claycastle,2018-06-18,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+12412,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-06-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+12412,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-06-18,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+12406,IESWBWC040_0000_0100,Garryvoe,2018-06-18,E. coli,10,10.0,,count/100 ml,Excellent
+12406,IESWBWC040_0000_0100,Garryvoe,2018-06-18,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12552,IESWBWC050_0000_0100,Fountainstown,2018-06-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+12552,IESWBWC050_0000_0100,Fountainstown,2018-06-25,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+12658,IESWBWC020_0000_0100,Redbarn,2018-07-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+12658,IESWBWC020_0000_0100,Redbarn,2018-07-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12655,IESWBWC020_0000_0200,Youghal Claycastle,2018-07-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+12655,IESWBWC020_0000_0200,Youghal Claycastle,2018-07-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12660,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-07-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+12660,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-07-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12654,IESWBWC040_0000_0100,Garryvoe,2018-07-02,E. coli,332,332.0,,count/100 ml,Good
+12654,IESWBWC040_0000_0100,Garryvoe,2018-07-02,Intestinal enterococci,86,86.0,,count/100 ml,Good
+12812,BPNBF050000300001,Oysterhaven,2018-07-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+12812,BPNBF050000300001,Oysterhaven,2018-07-09,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12813,BPNBF050000320001,Rocky Bay,2018-07-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+12813,BPNBF050000320001,Rocky Bay,2018-07-09,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12800,IESWBWC050_0000_0100,Fountainstown,2018-07-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+12800,IESWBWC050_0000_0100,Fountainstown,2018-07-09,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+12907,BPNBF050000230001,Ring (Greenlands Strand),2018-07-16,E. coli,30,30.0,,count/100 ml,Excellent
+12907,BPNBF050000230001,Ring (Greenlands Strand),2018-07-16,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+12908,BPNBF050000330001,Ardnahinch,2018-07-16,E. coli,20,20.0,,count/100 ml,Excellent
+12908,BPNBF050000330001,Ardnahinch,2018-07-16,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+23913,BPNBF050000420001,Ballynamona Strand,2018-07-16,E. coli,20,20.0,,count/100 ml,Excellent
+23913,BPNBF050000420001,Ballynamona Strand,2018-07-16,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+12895,IESWBWC020_0000_0100,Redbarn,2018-07-16,E. coli,10,10.0,,count/100 ml,Excellent
+12895,IESWBWC020_0000_0100,Redbarn,2018-07-16,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+12892,IESWBWC020_0000_0200,Youghal Claycastle,2018-07-16,E. coli,<10,10.0,<,count/100 ml,Excellent
+12892,IESWBWC020_0000_0200,Youghal Claycastle,2018-07-16,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+12897,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-07-16,E. coli,10,10.0,,count/100 ml,Excellent
+12897,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-07-16,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+12890,IESWBWC040_0000_0100,Garryvoe,2018-07-16,E. coli,<10,10.0,<,count/100 ml,Excellent
+12890,IESWBWC040_0000_0100,Garryvoe,2018-07-16,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+13033,IESWBWC050_0000_0100,Fountainstown,2018-07-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+13033,IESWBWC050_0000_0100,Fountainstown,2018-07-23,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+13156,IESWBWC020_0000_0100,Redbarn,2018-07-30,E. coli,<10,10.0,<,count/100 ml,Excellent
+13156,IESWBWC020_0000_0100,Redbarn,2018-07-30,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+13153,IESWBWC020_0000_0200,Youghal Claycastle,2018-07-30,E. coli,<10,10.0,<,count/100 ml,Excellent
+13153,IESWBWC020_0000_0200,Youghal Claycastle,2018-07-30,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+13158,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-07-30,E. coli,20,20.0,,count/100 ml,Excellent
+13158,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-07-30,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+13151,IESWBWC040_0000_0100,Garryvoe,2018-07-30,E. coli,31,31.0,,count/100 ml,Excellent
+13151,IESWBWC040_0000_0100,Garryvoe,2018-07-30,Intestinal enterococci,22,22.0,,count/100 ml,Excellent
+13260,BPNBF050000300001,Oysterhaven,2018-08-07,E. coli,41,41.0,,count/100 ml,Excellent
+13260,BPNBF050000300001,Oysterhaven,2018-08-07,Intestinal enterococci,57,57.0,,count/100 ml,Excellent
+13261,BPNBF050000320001,Rocky Bay,2018-08-07,E. coli,41,41.0,,count/100 ml,Excellent
+13261,BPNBF050000320001,Rocky Bay,2018-08-07,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+13252,IESWBWC050_0000_0100,Fountainstown,2018-08-07,E. coli,10,10.0,,count/100 ml,Excellent
+13252,IESWBWC050_0000_0100,Fountainstown,2018-08-07,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+13390,BPNBF050000230001,Ring (Greenlands Strand),2018-08-13,E. coli,31,31.0,,count/100 ml,Excellent
+13390,BPNBF050000230001,Ring (Greenlands Strand),2018-08-13,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+13391,BPNBF050000330001,Ardnahinch,2018-08-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+13391,BPNBF050000330001,Ardnahinch,2018-08-13,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+23914,BPNBF050000420001,Ballynamona Strand,2018-08-13,E. coli,85,85.0,,count/100 ml,Excellent
+23914,BPNBF050000420001,Ballynamona Strand,2018-08-13,Intestinal enterococci,73,73.0,,count/100 ml,Excellent
+13385,IESWBWC020_0000_0100,Redbarn,2018-08-13,E. coli,10,10.0,,count/100 ml,Excellent
+13385,IESWBWC020_0000_0100,Redbarn,2018-08-13,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+13382,IESWBWC020_0000_0200,Youghal Claycastle,2018-08-13,E. coli,20,20.0,,count/100 ml,Excellent
+13382,IESWBWC020_0000_0200,Youghal Claycastle,2018-08-13,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+13387,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-08-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+13387,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-08-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+13381,IESWBWC040_0000_0100,Garryvoe,2018-08-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+13381,IESWBWC040_0000_0100,Garryvoe,2018-08-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+13629,IESWBWC050_0000_0100,Fountainstown,2018-08-20,E. coli,52,52.0,,count/100 ml,Excellent
+13629,IESWBWC050_0000_0100,Fountainstown,2018-08-20,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+13659,BPNBF050000300001,Oysterhaven,2018-08-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+13659,BPNBF050000300001,Oysterhaven,2018-08-27,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+13660,BPNBF050000320001,Rocky Bay,2018-08-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+13660,BPNBF050000320001,Rocky Bay,2018-08-27,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+13652,IESWBWC020_0000_0100,Redbarn,2018-08-27,E. coli,20,20.0,,count/100 ml,Excellent
+13652,IESWBWC020_0000_0100,Redbarn,2018-08-27,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+13648,IESWBWC020_0000_0200,Youghal Claycastle,2018-08-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+13648,IESWBWC020_0000_0200,Youghal Claycastle,2018-08-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+13653,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-08-27,E. coli,20,20.0,,count/100 ml,Excellent
+13653,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-08-27,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+13647,IESWBWC040_0000_0100,Garryvoe,2018-08-27,E. coli,31,31.0,,count/100 ml,Excellent
+13647,IESWBWC040_0000_0100,Garryvoe,2018-08-27,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+13650,IESWBWC050_0000_0100,Fountainstown,2018-08-27,E. coli,20,20.0,,count/100 ml,Excellent
+13650,IESWBWC050_0000_0100,Fountainstown,2018-08-27,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+13759,BPNBF050000230001,Ring (Greenlands Strand),2018-09-03,E. coli,97,97.0,,count/100 ml,Excellent
+13759,BPNBF050000230001,Ring (Greenlands Strand),2018-09-03,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+13761,BPNBF050000330001,Ardnahinch,2018-09-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+13761,BPNBF050000330001,Ardnahinch,2018-09-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23915,BPNBF050000420001,Ballynamona Strand,2018-09-03,E. coli,10,10.0,,count/100 ml,Excellent
+23915,BPNBF050000420001,Ballynamona Strand,2018-09-03,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+13751,IESWBWC020_0000_0100,Redbarn,2018-09-03,E. coli,41,41.0,,count/100 ml,Excellent
+13751,IESWBWC020_0000_0100,Redbarn,2018-09-03,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+13745,IESWBWC020_0000_0200,Youghal Claycastle,2018-09-03,E. coli,106,106.0,,count/100 ml,Excellent
+13745,IESWBWC020_0000_0200,Youghal Claycastle,2018-09-03,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+13754,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-09-03,E. coli,20,20.0,,count/100 ml,Excellent
+13754,IESWBWC020_0000_0300,Youghal Front Strand Beach,2018-09-03,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+13743,IESWBWC040_0000_0100,Garryvoe,2018-09-03,E. coli,213,213.0,,count/100 ml,Excellent
+13743,IESWBWC040_0000_0100,Garryvoe,2018-09-03,Intestinal enterococci,27,27.0,,count/100 ml,Excellent
+13747,IESWBWC050_0000_0100,Fountainstown,2018-09-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+13747,IESWBWC050_0000_0100,Fountainstown,2018-09-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14042,BPNBF050000230001,Ring (Greenlands Strand),2019-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+14042,BPNBF050000230001,Ring (Greenlands Strand),2019-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14044,BPNBF050000300001,Oysterhaven,2019-05-22,E. coli,10,10.0,,count/100 ml,Excellent
+14044,BPNBF050000300001,Oysterhaven,2019-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14045,BPNBF050000320001,Rocky Bay,2019-05-22,E. coli,20,20.0,,count/100 ml,Excellent
+14045,BPNBF050000320001,Rocky Bay,2019-05-22,Intestinal enterococci,15,15.0,,count/100 ml,Excellent
+14046,BPNBF050000330001,Ardnahinch,2019-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+14046,BPNBF050000330001,Ardnahinch,2019-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23916,BPNBF050000420001,Ballynamona Strand,2019-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+23916,BPNBF050000420001,Ballynamona Strand,2019-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14032,IESWBWC020_0000_0100,Redbarn,2019-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+14032,IESWBWC020_0000_0100,Redbarn,2019-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14026,IESWBWC020_0000_0200,Youghal Claycastle,2019-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+14026,IESWBWC020_0000_0200,Youghal Claycastle,2019-05-22,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+14035,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+14035,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14024,IESWBWC040_0000_0100,Garryvoe,2019-05-22,E. coli,10,10.0,,count/100 ml,Excellent
+14024,IESWBWC040_0000_0100,Garryvoe,2019-05-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+14028,IESWBWC050_0000_0100,Fountainstown,2019-05-22,E. coli,52,52.0,,count/100 ml,Excellent
+14028,IESWBWC050_0000_0100,Fountainstown,2019-05-22,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+14213,IESWBWC020_0000_0100,Redbarn,2019-06-04,E. coli,41,41.0,,count/100 ml,Excellent
+14213,IESWBWC020_0000_0100,Redbarn,2019-06-04,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+14210,IESWBWC020_0000_0200,Youghal Claycastle,2019-06-04,E. coli,20,20.0,,count/100 ml,Excellent
+14210,IESWBWC020_0000_0200,Youghal Claycastle,2019-06-04,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+14215,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-06-04,E. coli,10,10.0,,count/100 ml,Excellent
+14215,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-06-04,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+14209,IESWBWC040_0000_0100,Garryvoe,2019-06-04,E. coli,1017,1017.0,,count/100 ml,Poor
+14209,IESWBWC040_0000_0100,Garryvoe,2019-06-04,Intestinal enterococci,47,47.0,,count/100 ml,Poor
+14363,BPNBF050000300001,Oysterhaven,2019-06-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+14363,BPNBF050000300001,Oysterhaven,2019-06-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14364,BPNBF050000320001,Rocky Bay,2019-06-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+14364,BPNBF050000320001,Rocky Bay,2019-06-10,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+14345,IESWBWC050_0000_0100,Fountainstown,2019-06-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+14345,IESWBWC050_0000_0100,Fountainstown,2019-06-10,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+14487,BPNBF050000230001,Ring (Greenlands Strand),2019-06-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+14487,BPNBF050000230001,Ring (Greenlands Strand),2019-06-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14488,BPNBF050000330001,Ardnahinch,2019-06-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+14488,BPNBF050000330001,Ardnahinch,2019-06-17,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+23917,BPNBF050000420001,Ballynamona Strand,2019-06-17,E. coli,10,10.0,,count/100 ml,Excellent
+23917,BPNBF050000420001,Ballynamona Strand,2019-06-17,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+14476,IESWBWC020_0000_0100,Redbarn,2019-06-17,E. coli,20,20.0,,count/100 ml,Excellent
+14476,IESWBWC020_0000_0100,Redbarn,2019-06-17,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+14473,IESWBWC020_0000_0200,Youghal Claycastle,2019-06-17,E. coli,10,10.0,,count/100 ml,Excellent
+14473,IESWBWC020_0000_0200,Youghal Claycastle,2019-06-17,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+14478,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-06-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+14478,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-06-17,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+14471,IESWBWC040_0000_0100,Garryvoe,2019-06-17,E. coli,31,31.0,,count/100 ml,Excellent
+14471,IESWBWC040_0000_0100,Garryvoe,2019-06-17,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+14632,IESWBWC050_0000_0100,Fountainstown,2019-06-24,E. coli,959,959.0,,count/100 ml,Sufficient
+14632,IESWBWC050_0000_0100,Fountainstown,2019-06-24,Intestinal enterococci,96,96.0,,count/100 ml,Sufficient
+14744,IESWBWC020_0000_0100,Redbarn,2019-07-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+14744,IESWBWC020_0000_0100,Redbarn,2019-07-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14741,IESWBWC020_0000_0200,Youghal Claycastle,2019-07-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+14741,IESWBWC020_0000_0200,Youghal Claycastle,2019-07-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14746,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-07-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+14746,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-07-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14739,IESWBWC040_0000_0100,Garryvoe,2019-07-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+14739,IESWBWC040_0000_0100,Garryvoe,2019-07-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14929,BPNBF050000300001,Oysterhaven,2019-07-08,E. coli,10,10.0,,count/100 ml,Excellent
+14929,BPNBF050000300001,Oysterhaven,2019-07-08,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+14930,BPNBF050000320001,Rocky Bay,2019-07-08,E. coli,10,10.0,,count/100 ml,Excellent
+14930,BPNBF050000320001,Rocky Bay,2019-07-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+14921,IESWBWC050_0000_0100,Fountainstown,2019-07-08,E. coli,10,10.0,,count/100 ml,Excellent
+14921,IESWBWC050_0000_0100,Fountainstown,2019-07-08,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+14985,BPNBF050000230001,Ring (Greenlands Strand),2019-07-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+14985,BPNBF050000230001,Ring (Greenlands Strand),2019-07-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14986,BPNBF050000330001,Ardnahinch,2019-07-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+14986,BPNBF050000330001,Ardnahinch,2019-07-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23918,BPNBF050000420001,Ballynamona Strand,2019-07-15,E. coli,41,41.0,,count/100 ml,Excellent
+23918,BPNBF050000420001,Ballynamona Strand,2019-07-15,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+14980,IESWBWC020_0000_0100,Redbarn,2019-07-15,E. coli,10,10.0,,count/100 ml,Excellent
+14980,IESWBWC020_0000_0100,Redbarn,2019-07-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14977,IESWBWC020_0000_0200,Youghal Claycastle,2019-07-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+14977,IESWBWC020_0000_0200,Youghal Claycastle,2019-07-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+14982,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-07-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+14982,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-07-15,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+14976,IESWBWC040_0000_0100,Garryvoe,2019-07-15,E. coli,110,110.0,,count/100 ml,Excellent
+14976,IESWBWC040_0000_0100,Garryvoe,2019-07-15,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+16178,IESWBWC050_0000_0100,Fountainstown,2019-07-24,E. coli,20,20.0,,count/100 ml,Excellent
+16178,IESWBWC050_0000_0100,Fountainstown,2019-07-24,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+16218,IESWBWC020_0000_0100,Redbarn,2019-07-29,E. coli,<10,10.0,<,count/100 ml,Excellent
+16218,IESWBWC020_0000_0100,Redbarn,2019-07-29,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+16215,IESWBWC020_0000_0200,Youghal Claycastle,2019-07-29,E. coli,<10,10.0,<,count/100 ml,Excellent
+16215,IESWBWC020_0000_0200,Youghal Claycastle,2019-07-29,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+16220,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-07-29,E. coli,30,30.0,,count/100 ml,Excellent
+16220,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-07-29,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+16214,IESWBWC040_0000_0100,Garryvoe,2019-07-29,E. coli,10,10.0,,count/100 ml,Excellent
+16214,IESWBWC040_0000_0100,Garryvoe,2019-07-29,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+16399,BPNBF050000300001,Oysterhaven,2019-08-06,E. coli,10,10.0,,count/100 ml,Excellent
+16399,BPNBF050000300001,Oysterhaven,2019-08-06,Intestinal enterococci,43,43.0,,count/100 ml,Excellent
+16400,BPNBF050000320001,Rocky Bay,2019-08-06,E. coli,41,41.0,,count/100 ml,Excellent
+16400,BPNBF050000320001,Rocky Bay,2019-08-06,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+16391,IESWBWC050_0000_0100,Fountainstown,2019-08-06,E. coli,41,41.0,,count/100 ml,Excellent
+16391,IESWBWC050_0000_0100,Fountainstown,2019-08-06,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+16718,BPNBF050000230001,Ring (Greenlands Strand),2019-08-12,E. coli,52,52.0,,count/100 ml,Excellent
+16718,BPNBF050000230001,Ring (Greenlands Strand),2019-08-12,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+16719,BPNBF050000330001,Ardnahinch,2019-08-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+16719,BPNBF050000330001,Ardnahinch,2019-08-12,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+16710,IESWBWC020_0000_0100,Redbarn,2019-08-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+16710,IESWBWC020_0000_0100,Redbarn,2019-08-12,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+16709,IESWBWC020_0000_0200,Youghal Claycastle,2019-08-12,E. coli,41,41.0,,count/100 ml,Excellent
+16709,IESWBWC020_0000_0200,Youghal Claycastle,2019-08-12,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+16707,IESWBWC040_0000_0100,Garryvoe,2019-08-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+16707,IESWBWC040_0000_0100,Garryvoe,2019-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23919,BPNBF050000420001,Ballynamona Strand,2019-08-13,E. coli,31,31.0,,count/100 ml,Excellent
+23919,BPNBF050000420001,Ballynamona Strand,2019-08-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+16677,IESWBWC050_0000_0100,Fountainstown,2019-08-19,E. coli,10,10.0,,count/100 ml,Excellent
+16677,IESWBWC050_0000_0100,Fountainstown,2019-08-19,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+16753,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-08-21,E. coli,31,31.0,,count/100 ml,Excellent
+16753,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-08-21,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+16841,BPNBF050000300001,Oysterhaven,2019-08-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+16841,BPNBF050000300001,Oysterhaven,2019-08-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+16842,BPNBF050000320001,Rocky Bay,2019-08-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+16842,BPNBF050000320001,Rocky Bay,2019-08-26,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+16835,IESWBWC020_0000_0100,Redbarn,2019-08-26,E. coli,20,20.0,,count/100 ml,Excellent
+16835,IESWBWC020_0000_0100,Redbarn,2019-08-26,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+16831,IESWBWC020_0000_0200,Youghal Claycastle,2019-08-26,E. coli,10,10.0,,count/100 ml,Excellent
+16831,IESWBWC020_0000_0200,Youghal Claycastle,2019-08-26,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+16836,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-08-26,E. coli,10,10.0,,count/100 ml,Excellent
+16836,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-08-26,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+16830,IESWBWC040_0000_0100,Garryvoe,2019-08-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+16830,IESWBWC040_0000_0100,Garryvoe,2019-08-26,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+16833,IESWBWC050_0000_0100,Fountainstown,2019-08-26,E. coli,10,10.0,,count/100 ml,Excellent
+16833,IESWBWC050_0000_0100,Fountainstown,2019-08-26,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+16982,BPNBF050000230001,Ring (Greenlands Strand),2019-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+16982,BPNBF050000230001,Ring (Greenlands Strand),2019-09-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+16984,BPNBF050000330001,Ardnahinch,2019-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+16984,BPNBF050000330001,Ardnahinch,2019-09-02,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+23920,BPNBF050000420001,Ballynamona Strand,2019-09-02,E. coli,30,30.0,,count/100 ml,Excellent
+23920,BPNBF050000420001,Ballynamona Strand,2019-09-02,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+16959,IESWBWC020_0000_0100,Redbarn,2019-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+16959,IESWBWC020_0000_0100,Redbarn,2019-09-02,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+16954,IESWBWC020_0000_0200,Youghal Claycastle,2019-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+16954,IESWBWC020_0000_0200,Youghal Claycastle,2019-09-02,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+16962,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+16962,IESWBWC020_0000_0300,Youghal Front Strand Beach,2019-09-02,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+16948,IESWBWC040_0000_0100,Garryvoe,2019-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+16948,IESWBWC040_0000_0100,Garryvoe,2019-09-02,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+16992,IESWBWC050_0000_0100,Fountainstown,2019-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+16992,IESWBWC050_0000_0100,Fountainstown,2019-09-02,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+17262,BPNBF050000230001,Ring (Greenlands Strand),2020-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+17262,BPNBF050000230001,Ring (Greenlands Strand),2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17264,BPNBF050000300001,Oysterhaven,2020-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+17264,BPNBF050000300001,Oysterhaven,2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17265,BPNBF050000320001,Rocky Bay,2020-05-25,E. coli,41,41.0,,count/100 ml,Excellent
+17265,BPNBF050000320001,Rocky Bay,2020-05-25,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+17266,BPNBF050000330001,Ardnahinch,2020-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+17266,BPNBF050000330001,Ardnahinch,2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23921,BPNBF050000420001,Ballynamona Strand,2020-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+23921,BPNBF050000420001,Ballynamona Strand,2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17304,IESWBWC020_0000_0100,Redbarn,2020-05-25,E. coli,20,20.0,,count/100 ml,Excellent
+17304,IESWBWC020_0000_0100,Redbarn,2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17298,IESWBWC020_0000_0200,Youghal Claycastle,2020-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+17298,IESWBWC020_0000_0200,Youghal Claycastle,2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17307,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-05-25,E. coli,20,20.0,,count/100 ml,Excellent
+17307,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17295,IESWBWC040_0000_0100,Garryvoe,2020-05-25,E. coli,41,41.0,,count/100 ml,Excellent
+17295,IESWBWC040_0000_0100,Garryvoe,2020-05-25,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+17300,IESWBWC050_0000_0100,Fountainstown,2020-05-25,E. coli,10,10.0,,count/100 ml,Excellent
+17300,IESWBWC050_0000_0100,Fountainstown,2020-05-25,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+17695,BPNBF050000230001,Ring (Greenlands Strand),2020-06-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+17695,BPNBF050000230001,Ring (Greenlands Strand),2020-06-15,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17696,BPNBF050000330001,Ardnahinch,2020-06-15,E. coli,41,41.0,,count/100 ml,Excellent
+17696,BPNBF050000330001,Ardnahinch,2020-06-15,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+23922,BPNBF050000420001,Ballynamona Strand,2020-06-15,E. coli,10,10.0,,count/100 ml,Excellent
+23922,BPNBF050000420001,Ballynamona Strand,2020-06-15,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+17674,IESWBWC020_0000_0100,Redbarn,2020-06-15,E. coli,10,10.0,,count/100 ml,Excellent
+17674,IESWBWC020_0000_0100,Redbarn,2020-06-15,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+17671,IESWBWC020_0000_0200,Youghal Claycastle,2020-06-15,E. coli,<10,10.0,<,count/100 ml,Excellent
+17671,IESWBWC020_0000_0200,Youghal Claycastle,2020-06-15,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+17676,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-06-15,E. coli,31,31.0,,count/100 ml,Excellent
+17676,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-06-15,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+17663,IESWBWC040_0000_0100,Garryvoe,2020-06-15,E. coli,10,10.0,,count/100 ml,Excellent
+17663,IESWBWC040_0000_0100,Garryvoe,2020-06-15,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+17891,BPNBF050000300001,Oysterhaven,2020-06-24,E. coli,20,20.0,,count/100 ml,Excellent
+17891,BPNBF050000300001,Oysterhaven,2020-06-24,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+17892,BPNBF050000320001,Rocky Bay,2020-06-24,E. coli,31,31.0,,count/100 ml,Excellent
+17892,BPNBF050000320001,Rocky Bay,2020-06-24,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+17855,IESWBWC050_0000_0100,Fountainstown,2020-06-24,E. coli,52,52.0,,count/100 ml,Excellent
+17855,IESWBWC050_0000_0100,Fountainstown,2020-06-24,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+17980,IESWBWC020_0000_0100,Redbarn,2020-06-30,E. coli,20,20.0,,count/100 ml,Excellent
+17980,IESWBWC020_0000_0100,Redbarn,2020-06-30,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+17979,IESWBWC020_0000_0200,Youghal Claycastle,2020-06-30,E. coli,10,10.0,,count/100 ml,Excellent
+17979,IESWBWC020_0000_0200,Youghal Claycastle,2020-06-30,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+17981,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-06-30,E. coli,20,20.0,,count/100 ml,Excellent
+17981,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-06-30,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+17976,IESWBWC040_0000_0100,Garryvoe,2020-06-30,E. coli,414,414.0,,count/100 ml,Good
+17976,IESWBWC040_0000_0100,Garryvoe,2020-06-30,Intestinal enterococci,68,68.0,,count/100 ml,Good
+18036,BPNBF050000300001,Oysterhaven,2020-07-06,E. coli,10,10.0,,count/100 ml,Excellent
+18036,BPNBF050000300001,Oysterhaven,2020-07-06,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+18037,BPNBF050000320001,Rocky Bay,2020-07-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+18037,BPNBF050000320001,Rocky Bay,2020-07-06,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+18028,IESWBWC050_0000_0100,Fountainstown,2020-07-06,E. coli,20,20.0,,count/100 ml,Excellent
+18028,IESWBWC050_0000_0100,Fountainstown,2020-07-06,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+18224,BPNBF050000230001,Ring (Greenlands Strand),2020-07-13,E. coli,384,384.0,,count/100 ml,Good
+18224,BPNBF050000230001,Ring (Greenlands Strand),2020-07-13,Intestinal enterococci,123,123.0,,count/100 ml,Good
+18225,BPNBF050000330001,Ardnahinch,2020-07-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+18225,BPNBF050000330001,Ardnahinch,2020-07-13,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+23923,BPNBF050000420001,Ballynamona Strand,2020-07-13,E. coli,20,20.0,,count/100 ml,Excellent
+23923,BPNBF050000420001,Ballynamona Strand,2020-07-13,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+18219,IESWBWC020_0000_0100,Redbarn,2020-07-13,E. coli,110,110.0,,count/100 ml,Excellent
+18219,IESWBWC020_0000_0100,Redbarn,2020-07-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+18216,IESWBWC020_0000_0200,Youghal Claycastle,2020-07-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+18216,IESWBWC020_0000_0200,Youghal Claycastle,2020-07-13,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+18221,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-07-13,E. coli,85,85.0,,count/100 ml,Excellent
+18221,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-07-13,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+18215,IESWBWC040_0000_0100,Garryvoe,2020-07-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+18215,IESWBWC040_0000_0100,Garryvoe,2020-07-13,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+18280,IESWBWC050_0000_0100,Fountainstown,2020-07-20,E. coli,10,10.0,,count/100 ml,Excellent
+18280,IESWBWC050_0000_0100,Fountainstown,2020-07-20,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+19409,IESWBWC020_0000_0100,Redbarn,2020-07-28,E. coli,52,52.0,,count/100 ml,Excellent
+19409,IESWBWC020_0000_0100,Redbarn,2020-07-28,Intestinal enterococci,15,15.0,,count/100 ml,Excellent
+19406,IESWBWC020_0000_0200,Youghal Claycastle,2020-07-28,E. coli,41,41.0,,count/100 ml,Excellent
+19406,IESWBWC020_0000_0200,Youghal Claycastle,2020-07-28,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+19411,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-07-28,E. coli,128,128.0,,count/100 ml,Excellent
+19411,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-07-28,Intestinal enterococci,42,42.0,,count/100 ml,Excellent
+19402,IESWBWC040_0000_0100,Garryvoe,2020-07-28,E. coli,41,41.0,,count/100 ml,Excellent
+19402,IESWBWC040_0000_0100,Garryvoe,2020-07-28,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+19604,BPNBF050000300001,Oysterhaven,2020-08-06,E. coli,86,86.0,,count/100 ml,Excellent
+19604,BPNBF050000300001,Oysterhaven,2020-08-06,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+19605,BPNBF050000320001,Rocky Bay,2020-08-06,E. coli,171,171.0,,count/100 ml,Excellent
+19605,BPNBF050000320001,Rocky Bay,2020-08-06,Intestinal enterococci,36,36.0,,count/100 ml,Excellent
+19597,IESWBWC050_0000_0100,Fountainstown,2020-08-06,E. coli,279,279.0,,count/100 ml,Good
+19597,IESWBWC050_0000_0100,Fountainstown,2020-08-06,Intestinal enterococci,49,49.0,,count/100 ml,Good
+19664,BPNBF050000230001,Ring (Greenlands Strand),2020-08-10,E. coli,20,20.0,,count/100 ml,Excellent
+19664,BPNBF050000230001,Ring (Greenlands Strand),2020-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+19665,BPNBF050000330001,Ardnahinch,2020-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+19665,BPNBF050000330001,Ardnahinch,2020-08-10,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+23924,BPNBF050000420001,Ballynamona Strand,2020-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+23924,BPNBF050000420001,Ballynamona Strand,2020-08-10,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+19659,IESWBWC020_0000_0100,Redbarn,2020-08-10,E. coli,31,31.0,,count/100 ml,Excellent
+19659,IESWBWC020_0000_0100,Redbarn,2020-08-10,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+19656,IESWBWC020_0000_0200,Youghal Claycastle,2020-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+19656,IESWBWC020_0000_0200,Youghal Claycastle,2020-08-10,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+19661,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+19661,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+19649,IESWBWC040_0000_0100,Garryvoe,2020-08-10,E. coli,31,31.0,,count/100 ml,Excellent
+19649,IESWBWC040_0000_0100,Garryvoe,2020-08-10,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+19852,IESWBWC050_0000_0100,Fountainstown,2020-08-17,E. coli,158,158.0,,count/100 ml,Excellent
+19852,IESWBWC050_0000_0100,Fountainstown,2020-08-17,Intestinal enterococci,78,78.0,,count/100 ml,Excellent
+19990,BPNBF050000300001,Oysterhaven,2020-08-24,E. coli,556,556.0,,count/100 ml,Sufficient
+19990,BPNBF050000300001,Oysterhaven,2020-08-24,Intestinal enterococci,115,115.0,,count/100 ml,Sufficient
+19991,BPNBF050000320001,Rocky Bay,2020-08-24,E. coli,52,52.0,,count/100 ml,Excellent
+19991,BPNBF050000320001,Rocky Bay,2020-08-24,Intestinal enterococci,27,27.0,,count/100 ml,Excellent
+19979,IESWBWC020_0000_0100,Redbarn,2020-08-24,E. coli,627,627.0,,count/100 ml,Sufficient
+19979,IESWBWC020_0000_0100,Redbarn,2020-08-24,Intestinal enterococci,58,58.0,,count/100 ml,Sufficient
+19981,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-08-24,E. coli,420,420.0,,count/100 ml,Good
+19981,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-08-24,Intestinal enterococci,38,38.0,,count/100 ml,Good
+19972,IESWBWC040_0000_0100,Garryvoe,2020-08-24,E. coli,211,211.0,,count/100 ml,Excellent
+19972,IESWBWC040_0000_0100,Garryvoe,2020-08-24,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+19977,IESWBWC050_0000_0100,Fountainstown,2020-08-24,E. coli,52,52.0,,count/100 ml,Excellent
+19977,IESWBWC050_0000_0100,Fountainstown,2020-08-24,Intestinal enterococci,30,30.0,,count/100 ml,Excellent
+20185,BPNBF050000230001,Ring (Greenlands Strand),2020-09-01,E. coli,41,41.0,,count/100 ml,Excellent
+20185,BPNBF050000230001,Ring (Greenlands Strand),2020-09-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+20187,BPNBF050000300001,Oysterhaven,2020-09-01,E. coli,426,426.0,,count/100 ml,Good
+20187,BPNBF050000300001,Oysterhaven,2020-09-01,Intestinal enterococci,79,79.0,,count/100 ml,Good
+20188,BPNBF050000330001,Ardnahinch,2020-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+20188,BPNBF050000330001,Ardnahinch,2020-09-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23925,BPNBF050000420001,Ballynamona Strand,2020-09-01,E. coli,281,281.0,,count/100 ml,Good
+23925,BPNBF050000420001,Ballynamona Strand,2020-09-01,Intestinal enterococci,28,28.0,,count/100 ml,Good
+20174,IESWBWC020_0000_0100,Redbarn,2020-09-01,E. coli,209,209.0,,count/100 ml,Excellent
+20174,IESWBWC020_0000_0100,Redbarn,2020-09-01,Intestinal enterococci,15,15.0,,count/100 ml,Excellent
+20169,IESWBWC020_0000_0200,Youghal Claycastle,2020-09-01,E. coli,135,135.0,,count/100 ml,Excellent
+20169,IESWBWC020_0000_0200,Youghal Claycastle,2020-09-01,Intestinal enterococci,38,38.0,,count/100 ml,Excellent
+20177,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-09-01,E. coli,175,175.0,,count/100 ml,Excellent
+20177,IESWBWC020_0000_0300,Youghal Front Strand Beach,2020-09-01,Intestinal enterococci,25,25.0,,count/100 ml,Excellent
+20167,IESWBWC040_0000_0100,Garryvoe,2020-09-01,E. coli,243,243.0,,count/100 ml,Excellent
+20167,IESWBWC040_0000_0100,Garryvoe,2020-09-01,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+20170,IESWBWC050_0000_0100,Fountainstown,2020-09-01,E. coli,75,75.0,,count/100 ml,Excellent
+20170,IESWBWC050_0000_0100,Fountainstown,2020-09-01,Intestinal enterococci,33,33.0,,count/100 ml,Excellent
+20243,IESWBWC020_0000_0200,Youghal Claycastle,2020-09-03,E. coli,20,20.0,,count/100 ml,Excellent
+20243,IESWBWC020_0000_0200,Youghal Claycastle,2020-09-03,Intestinal enterococci,25,25.0,,count/100 ml,Excellent
+20981,BPNBF050000230001,Ring (Greenlands Strand),2021-05-25,E. coli,86,86.0,,count/100 ml,Excellent
+20981,BPNBF050000230001,Ring (Greenlands Strand),2021-05-25,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+20983,BPNBF050000300001,Oysterhaven,2021-05-25,E. coli,132,132.0,,count/100 ml,Excellent
+20983,BPNBF050000300001,Oysterhaven,2021-05-25,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+20984,BPNBF050000320001,Rocky Bay,2021-05-25,E. coli,20,20.0,,count/100 ml,Excellent
+20984,BPNBF050000320001,Rocky Bay,2021-05-25,Intestinal enterococci,24,24.0,,count/100 ml,Excellent
+20985,BPNBF050000330001,Ardnahinch,2021-05-25,E. coli,10,10.0,,count/100 ml,Excellent
+20985,BPNBF050000330001,Ardnahinch,2021-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+23926,BPNBF050000420001,Ballynamona Strand,2021-05-25,E. coli,41,41.0,,count/100 ml,Excellent
+23926,BPNBF050000420001,Ballynamona Strand,2021-05-25,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+20971,IESWBWC020_0000_0100,Redbarn,2021-05-25,E. coli,62,62.0,,count/100 ml,Excellent
+20971,IESWBWC020_0000_0100,Redbarn,2021-05-25,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+20964,IESWBWC020_0000_0200,Youghal Claycastle,2021-05-25,E. coli,75,75.0,,count/100 ml,Excellent
+20964,IESWBWC020_0000_0200,Youghal Claycastle,2021-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+20974,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-05-25,E. coli,175,175.0,,count/100 ml,Excellent
+20974,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-05-25,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+20962,IESWBWC040_0000_0100,Garryvoe,2021-05-26,E. coli,160,160.0,,count/100 ml,Excellent
+20962,IESWBWC040_0000_0100,Garryvoe,2021-05-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21134,IESWBWC050_0000_0100,Fountainstown,2021-05-31,E. coli,109,109.0,,count/100 ml,Excellent
+21134,IESWBWC050_0000_0100,Fountainstown,2021-05-31,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+21329,BPNBF050000230001,Ring (Greenlands Strand),2021-06-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+21329,BPNBF050000230001,Ring (Greenlands Strand),2021-06-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21330,BPNBF050000330001,Ardnahinch,2021-06-14,E. coli,20,20.0,,count/100 ml,Excellent
+21330,BPNBF050000330001,Ardnahinch,2021-06-14,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+23927,BPNBF050000420001,Ballynamona Strand,2021-06-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+23927,BPNBF050000420001,Ballynamona Strand,2021-06-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21324,IESWBWC020_0000_0100,Redbarn,2021-06-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+21324,IESWBWC020_0000_0100,Redbarn,2021-06-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21321,IESWBWC020_0000_0200,Youghal Claycastle,2021-06-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+21321,IESWBWC020_0000_0200,Youghal Claycastle,2021-06-14,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+21326,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-06-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+21326,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-06-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21320,IESWBWC040_0000_0100,Garryvoe,2021-06-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+21320,IESWBWC040_0000_0100,Garryvoe,2021-06-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21480,BPNBF050000300001,Oysterhaven,2021-06-21,E. coli,<10,10.0,<,count/100 ml,Excellent
+21480,BPNBF050000300001,Oysterhaven,2021-06-21,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+21481,BPNBF050000320001,Rocky Bay,2021-06-21,E. coli,30,30.0,,count/100 ml,Excellent
+21481,BPNBF050000320001,Rocky Bay,2021-06-21,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+21472,IESWBWC050_0000_0100,Fountainstown,2021-06-21,E. coli,20,20.0,,count/100 ml,Excellent
+21472,IESWBWC050_0000_0100,Fountainstown,2021-06-21,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+21627,IESWBWC020_0000_0100,Redbarn,2021-06-28,E. coli,10,10.0,,count/100 ml,Excellent
+21627,IESWBWC020_0000_0100,Redbarn,2021-06-28,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+21626,IESWBWC020_0000_0200,Youghal Claycastle,2021-06-28,E. coli,10,10.0,,count/100 ml,Excellent
+21626,IESWBWC020_0000_0200,Youghal Claycastle,2021-06-28,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+21628,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-06-28,E. coli,10,10.0,,count/100 ml,Excellent
+21628,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-06-28,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+21624,IESWBWC040_0000_0100,Garryvoe,2021-06-28,E. coli,40,40.0,,count/100 ml,Excellent
+21624,IESWBWC040_0000_0100,Garryvoe,2021-06-28,Intestinal enterococci,31,31.0,,count/100 ml,Excellent
+21990,BPNBF050000300001,Oysterhaven,2021-07-05,E. coli,<10,10.0,<,count/100 ml,Excellent
+21990,BPNBF050000300001,Oysterhaven,2021-07-05,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21991,BPNBF050000320001,Rocky Bay,2021-07-05,E. coli,<10,10.0,<,count/100 ml,Excellent
+21991,BPNBF050000320001,Rocky Bay,2021-07-05,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+21744,IESWBWC050_0000_0100,Fountainstown,2021-07-05,E. coli,<10,10.0,<,count/100 ml,Excellent
+21744,IESWBWC050_0000_0100,Fountainstown,2021-07-05,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+21882,BPNBF050000230001,Ring (Greenlands Strand),2021-07-12,E. coli,10,10.0,,count/100 ml,Excellent
+21882,BPNBF050000230001,Ring (Greenlands Strand),2021-07-12,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+21884,BPNBF050000330001,Ardnahinch,2021-07-12,E. coli,85,85.0,,count/100 ml,Excellent
+21884,BPNBF050000330001,Ardnahinch,2021-07-12,Intestinal enterococci,90,90.0,,count/100 ml,Excellent
+23928,BPNBF050000420001,Ballynamona Strand,2021-07-12,E. coli,10,10.0,,count/100 ml,Excellent
+23928,BPNBF050000420001,Ballynamona Strand,2021-07-12,Intestinal enterococci,31,31.0,,count/100 ml,Excellent
+21873,IESWBWC020_0000_0100,Redbarn,2021-07-12,E. coli,52,52.0,,count/100 ml,Excellent
+21873,IESWBWC020_0000_0100,Redbarn,2021-07-12,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+21872,IESWBWC020_0000_0200,Youghal Claycastle,2021-07-12,E. coli,50,50.0,,count/100 ml,Excellent
+21872,IESWBWC020_0000_0200,Youghal Claycastle,2021-07-12,Intestinal enterococci,67,67.0,,count/100 ml,Excellent
+21875,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-07-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+21875,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-07-12,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+21870,IESWBWC040_0000_0100,Garryvoe,2021-07-12,E. coli,213,213.0,,count/100 ml,Excellent
+21870,IESWBWC040_0000_0100,Garryvoe,2021-07-12,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22016,IESWBWC050_0000_0100,Fountainstown,2021-07-19,E. coli,10,10.0,,count/100 ml,Excellent
+22016,IESWBWC050_0000_0100,Fountainstown,2021-07-19,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+22154,IESWBWC020_0000_0100,Redbarn,2021-07-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+22154,IESWBWC020_0000_0100,Redbarn,2021-07-26,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+22151,IESWBWC020_0000_0200,Youghal Claycastle,2021-07-26,E. coli,41,41.0,,count/100 ml,Excellent
+22151,IESWBWC020_0000_0200,Youghal Claycastle,2021-07-26,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22157,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-07-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+22157,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-07-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+22148,IESWBWC040_0000_0100,Garryvoe,2021-07-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+22148,IESWBWC040_0000_0100,Garryvoe,2021-07-26,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+22300,BPNBF050000300001,Oysterhaven,2021-08-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+22300,BPNBF050000300001,Oysterhaven,2021-08-03,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+22301,BPNBF050000320001,Rocky Bay,2021-08-03,E. coli,10,10.0,,count/100 ml,Excellent
+22301,BPNBF050000320001,Rocky Bay,2021-08-03,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+22280,IESWBWC050_0000_0100,Fountainstown,2021-08-03,E. coli,10,10.0,,count/100 ml,Excellent
+22280,IESWBWC050_0000_0100,Fountainstown,2021-08-03,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+22425,BPNBF050000230001,Ring (Greenlands Strand),2021-08-09,E. coli,10,10.0,,count/100 ml,Excellent
+22425,BPNBF050000230001,Ring (Greenlands Strand),2021-08-09,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22426,BPNBF050000330001,Ardnahinch,2021-08-09,E. coli,10,10.0,,count/100 ml,Excellent
+22426,BPNBF050000330001,Ardnahinch,2021-08-09,Intestinal enterococci,32,32.0,,count/100 ml,Excellent
+23929,BPNBF050000420001,Ballynamona Strand,2021-08-09,E. coli,31,31.0,,count/100 ml,Excellent
+23929,BPNBF050000420001,Ballynamona Strand,2021-08-09,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+22418,IESWBWC020_0000_0100,Redbarn,2021-08-09,E. coli,20,20.0,,count/100 ml,Excellent
+22418,IESWBWC020_0000_0100,Redbarn,2021-08-09,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+22415,IESWBWC020_0000_0200,Youghal Claycastle,2021-08-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+22415,IESWBWC020_0000_0200,Youghal Claycastle,2021-08-09,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22420,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-08-09,E. coli,20,20.0,,count/100 ml,Excellent
+22420,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-08-09,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22412,IESWBWC040_0000_0100,Garryvoe,2021-08-09,E. coli,20,20.0,,count/100 ml,Excellent
+22412,IESWBWC040_0000_0100,Garryvoe,2021-08-09,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+22730,BPNBF050000300001,Oysterhaven,2021-08-23,E. coli,10,10.0,,count/100 ml,Excellent
+22730,BPNBF050000300001,Oysterhaven,2021-08-23,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22731,BPNBF050000320001,Rocky Bay,2021-08-23,E. coli,20,20.0,,count/100 ml,Excellent
+22731,BPNBF050000320001,Rocky Bay,2021-08-23,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+22723,IESWBWC020_0000_0100,Redbarn,2021-08-23,E. coli,10,10.0,,count/100 ml,Excellent
+22723,IESWBWC020_0000_0100,Redbarn,2021-08-23,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+22719,IESWBWC020_0000_0200,Youghal Claycastle,2021-08-23,E. coli,31,31.0,,count/100 ml,Excellent
+22719,IESWBWC020_0000_0200,Youghal Claycastle,2021-08-23,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+22724,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-08-23,E. coli,31,31.0,,count/100 ml,Excellent
+22724,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-08-23,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+22716,IESWBWC040_0000_0100,Garryvoe,2021-08-23,E. coli,10,10.0,,count/100 ml,Excellent
+22716,IESWBWC040_0000_0100,Garryvoe,2021-08-23,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+22721,IESWBWC050_0000_0100,Fountainstown,2021-08-23,E. coli,41,41.0,,count/100 ml,Excellent
+22721,IESWBWC050_0000_0100,Fountainstown,2021-08-23,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+22910,BPNBF050000230001,Ring (Greenlands Strand),2021-09-01,E. coli,86,86.0,,count/100 ml,Excellent
+22910,BPNBF050000230001,Ring (Greenlands Strand),2021-09-01,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+22911,BPNBF050000330001,Ardnahinch,2021-09-01,E. coli,1198,1198.0,,count/100 ml,Poor
+22911,BPNBF050000330001,Ardnahinch,2021-09-01,Intestinal enterococci,13,13.0,,count/100 ml,Poor
+23930,BPNBF050000420001,Ballynamona Strand,2021-09-01,E. coli,187,187.0,,count/100 ml,Excellent
+23930,BPNBF050000420001,Ballynamona Strand,2021-09-01,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+22896,IESWBWC020_0000_0100,Redbarn,2021-09-01,E. coli,52,52.0,,count/100 ml,Excellent
+22896,IESWBWC020_0000_0100,Redbarn,2021-09-01,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+22890,IESWBWC020_0000_0200,Youghal Claycastle,2021-09-01,E. coli,10,10.0,,count/100 ml,Excellent
+22890,IESWBWC020_0000_0200,Youghal Claycastle,2021-09-01,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+22898,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+22898,IESWBWC020_0000_0300,Youghal Front Strand Beach,2021-09-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+22884,IESWBWC040_0000_0100,Garryvoe,2021-09-01,E. coli,10,10.0,,count/100 ml,Excellent
+22884,IESWBWC040_0000_0100,Garryvoe,2021-09-01,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+22892,IESWBWC050_0000_0100,Fountainstown,2021-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+22892,IESWBWC050_0000_0100,Fountainstown,2021-09-01,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+22974,BPNBF050000330001,Ardnahinch,2021-09-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+22974,BPNBF050000330001,Ardnahinch,2021-09-06,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+24092,BPNBF050000230001,Ring (Greenlands Strand),2022-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+24092,BPNBF050000230001,Ring (Greenlands Strand),2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24094,BPNBF050000300001,Oysterhaven,2022-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+24094,BPNBF050000300001,Oysterhaven,2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24095,BPNBF050000320001,Rocky Bay,2022-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+24095,BPNBF050000320001,Rocky Bay,2022-05-23,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+24096,BPNBF050000330001,Ardnahinch,2022-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+24096,BPNBF050000330001,Ardnahinch,2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24099,BPNBF050000420001,Ballynamona Strand,2022-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+24099,BPNBF050000420001,Ballynamona Strand,2022-05-23,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+24082,IESWBWC020_0000_0100,Redbarn,2022-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+24082,IESWBWC020_0000_0100,Redbarn,2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24076,IESWBWC020_0000_0200,Youghal Claycastle,2022-05-23,E. coli,20,20.0,,count/100 ml,Excellent
+24076,IESWBWC020_0000_0200,Youghal Claycastle,2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24085,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+24085,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24075,IESWBWC040_0000_0100,Garryvoe,2022-05-23,E. coli,<10,10.0,<,count/100 ml,Excellent
+24075,IESWBWC040_0000_0100,Garryvoe,2022-05-23,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24078,IESWBWC050_0000_0100,Fountainstown,2022-05-23,E. coli,10,10.0,,count/100 ml,Excellent
+24078,IESWBWC050_0000_0100,Fountainstown,2022-05-23,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+24275,BPNBF050000300001,Oysterhaven,2022-06-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+24275,BPNBF050000300001,Oysterhaven,2022-06-07,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+24276,BPNBF050000320001,Rocky Bay,2022-06-07,E. coli,20,20.0,,count/100 ml,Excellent
+24276,BPNBF050000320001,Rocky Bay,2022-06-07,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+24262,IESWBWC050_0000_0100,Fountainstown,2022-06-07,E. coli,63,63.0,,count/100 ml,Excellent
+24262,IESWBWC050_0000_0100,Fountainstown,2022-06-07,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+24378,BPNBF050000230001,Ring (Greenlands Strand),2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24378,BPNBF050000230001,Ring (Greenlands Strand),2022-06-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+24379,BPNBF050000330001,Ardnahinch,2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24379,BPNBF050000330001,Ardnahinch,2022-06-13,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24391,BPNBF050000420001,Ballynamona Strand,2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24391,BPNBF050000420001,Ballynamona Strand,2022-06-13,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+24373,IESWBWC020_0000_0100,Redbarn,2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24373,IESWBWC020_0000_0100,Redbarn,2022-06-13,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24370,IESWBWC020_0000_0200,Youghal Claycastle,2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24370,IESWBWC020_0000_0200,Youghal Claycastle,2022-06-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+24375,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24375,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-06-13,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+24369,IESWBWC040_0000_0100,Garryvoe,2022-06-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+24369,IESWBWC040_0000_0100,Garryvoe,2022-06-13,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24720,IESWBWC020_0000_0100,Redbarn,2022-06-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+24720,IESWBWC020_0000_0100,Redbarn,2022-06-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24715,IESWBWC020_0000_0200,Youghal Claycastle,2022-06-27,E. coli,10,10.0,,count/100 ml,Excellent
+24715,IESWBWC020_0000_0200,Youghal Claycastle,2022-06-27,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+24724,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-06-27,E. coli,10,10.0,,count/100 ml,Excellent
+24724,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-06-27,Intestinal enterococci,75,75.0,,count/100 ml,Excellent
+24699,IESWBWC040_0000_0100,Garryvoe,2022-06-27,E. coli,41,41.0,,count/100 ml,Excellent
+24699,IESWBWC040_0000_0100,Garryvoe,2022-06-27,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+24798,BPNBF050000300001,Oysterhaven,2022-07-04,E. coli,<10,10.0,<,count/100 ml,Excellent
+24798,BPNBF050000300001,Oysterhaven,2022-07-04,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24799,BPNBF050000320001,Rocky Bay,2022-07-04,E. coli,<10,10.0,<,count/100 ml,Excellent
+24799,BPNBF050000320001,Rocky Bay,2022-07-04,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+24792,IESWBWC050_0000_0100,Fountainstown,2022-07-04,E. coli,<10,10.0,<,count/100 ml,Excellent
+24792,IESWBWC050_0000_0100,Fountainstown,2022-07-04,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+24930,BPNBF050000230001,Ring (Greenlands Strand),2022-07-11,E. coli,30,30.0,,count/100 ml,Excellent
+24930,BPNBF050000230001,Ring (Greenlands Strand),2022-07-11,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+24932,BPNBF050000330001,Ardnahinch,2022-07-11,E. coli,20,20.0,,count/100 ml,Excellent
+24932,BPNBF050000330001,Ardnahinch,2022-07-11,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+24934,BPNBF050000420001,Ballynamona Strand,2022-07-11,E. coli,86,86.0,,count/100 ml,Excellent
+24934,BPNBF050000420001,Ballynamona Strand,2022-07-11,Intestinal enterococci,15,15.0,,count/100 ml,Excellent
+24922,IESWBWC020_0000_0100,Redbarn,2022-07-11,E. coli,<10,10.0,<,count/100 ml,Excellent
+24922,IESWBWC020_0000_0100,Redbarn,2022-07-11,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+24921,IESWBWC020_0000_0200,Youghal Claycastle,2022-07-11,E. coli,10,10.0,,count/100 ml,Excellent
+24921,IESWBWC020_0000_0200,Youghal Claycastle,2022-07-11,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+24924,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-07-11,E. coli,<10,10.0,<,count/100 ml,Excellent
+24924,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-07-11,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+24919,IESWBWC040_0000_0100,Garryvoe,2022-07-11,E. coli,389,389.0,,count/100 ml,Good
+24919,IESWBWC040_0000_0100,Garryvoe,2022-07-11,Intestinal enterococci,31,31.0,,count/100 ml,Good
+25055,IESWBWC050_0000_0100,Fountainstown,2022-07-18,E. coli,20,20.0,,count/100 ml,Excellent
+25055,IESWBWC050_0000_0100,Fountainstown,2022-07-18,Intestinal enterococci,55,55.0,,count/100 ml,Excellent
+25208,IESWBWC020_0000_0100,Redbarn,2022-07-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+25208,IESWBWC020_0000_0100,Redbarn,2022-07-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25205,IESWBWC020_0000_0200,Youghal Claycastle,2022-07-25,E. coli,10,10.0,,count/100 ml,Excellent
+25205,IESWBWC020_0000_0200,Youghal Claycastle,2022-07-25,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+25211,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-07-25,E. coli,20,20.0,,count/100 ml,Excellent
+25211,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-07-25,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+25203,IESWBWC040_0000_0100,Garryvoe,2022-07-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+25203,IESWBWC040_0000_0100,Garryvoe,2022-07-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25339,BPNBF050000300001,Oysterhaven,2022-08-02,E. coli,173,173.0,,count/100 ml,Excellent
+25339,BPNBF050000300001,Oysterhaven,2022-08-02,Intestinal enterococci,40,40.0,,count/100 ml,Excellent
+25340,BPNBF050000320001,Rocky Bay,2022-08-02,E. coli,175,175.0,,count/100 ml,Excellent
+25340,BPNBF050000320001,Rocky Bay,2022-08-02,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+25331,IESWBWC050_0000_0100,Fountainstown,2022-08-02,E. coli,30,30.0,,count/100 ml,Excellent
+25331,IESWBWC050_0000_0100,Fountainstown,2022-08-02,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+25448,BPNBF050000230001,Ring (Greenlands Strand),2022-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+25448,BPNBF050000230001,Ring (Greenlands Strand),2022-08-08,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25449,BPNBF050000330001,Ardnahinch,2022-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+25449,BPNBF050000330001,Ardnahinch,2022-08-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+25451,BPNBF050000420001,Ballynamona Strand,2022-08-08,E. coli,10,10.0,,count/100 ml,Excellent
+25451,BPNBF050000420001,Ballynamona Strand,2022-08-08,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25440,IESWBWC020_0000_0100,Redbarn,2022-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+25440,IESWBWC020_0000_0100,Redbarn,2022-08-08,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25437,IESWBWC020_0000_0200,Youghal Claycastle,2022-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+25437,IESWBWC020_0000_0200,Youghal Claycastle,2022-08-08,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+25442,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-08-08,E. coli,10,10.0,,count/100 ml,Excellent
+25442,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-08-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+25435,IESWBWC040_0000_0100,Garryvoe,2022-08-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+25435,IESWBWC040_0000_0100,Garryvoe,2022-08-08,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25771,BPNBF050000300001,Oysterhaven,2022-08-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+25771,BPNBF050000300001,Oysterhaven,2022-08-22,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+25772,BPNBF050000320001,Rocky Bay,2022-08-22,E. coli,41,41.0,,count/100 ml,Excellent
+25772,BPNBF050000320001,Rocky Bay,2022-08-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+25759,IESWBWC020_0000_0100,Redbarn,2022-08-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+25759,IESWBWC020_0000_0100,Redbarn,2022-08-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+25751,IESWBWC020_0000_0200,Youghal Claycastle,2022-08-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+25751,IESWBWC020_0000_0200,Youghal Claycastle,2022-08-22,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+25763,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-08-22,E. coli,72,72.0,,count/100 ml,Excellent
+25763,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-08-22,Intestinal enterococci,15,15.0,,count/100 ml,Excellent
+25749,IESWBWC040_0000_0100,Garryvoe,2022-08-22,E. coli,41,41.0,,count/100 ml,Excellent
+25749,IESWBWC040_0000_0100,Garryvoe,2022-08-22,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+25754,IESWBWC050_0000_0100,Fountainstown,2022-08-22,E. coli,10,10.0,,count/100 ml,Excellent
+25754,IESWBWC050_0000_0100,Fountainstown,2022-08-22,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+26139,BPNBF050000230001,Ring (Greenlands Strand),2022-09-07,E. coli,63,63.0,,count/100 ml,Excellent
+26139,BPNBF050000230001,Ring (Greenlands Strand),2022-09-07,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+26140,BPNBF050000300001,Oysterhaven,2022-09-07,E. coli,132,132.0,,count/100 ml,Excellent
+26140,BPNBF050000300001,Oysterhaven,2022-09-07,Intestinal enterococci,52,52.0,,count/100 ml,Excellent
+26141,BPNBF050000330001,Ardnahinch,2022-09-07,E. coli,86,86.0,,count/100 ml,Excellent
+26141,BPNBF050000330001,Ardnahinch,2022-09-07,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+26144,BPNBF050000420001,Ballynamona Strand,2022-09-07,E. coli,120,120.0,,count/100 ml,Excellent
+26144,BPNBF050000420001,Ballynamona Strand,2022-09-07,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+26129,IESWBWC020_0000_0100,Redbarn,2022-09-07,E. coli,63,63.0,,count/100 ml,Excellent
+26129,IESWBWC020_0000_0100,Redbarn,2022-09-07,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+26125,IESWBWC020_0000_0200,Youghal Claycastle,2022-09-07,E. coli,52,52.0,,count/100 ml,Excellent
+26125,IESWBWC020_0000_0200,Youghal Claycastle,2022-09-07,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+26132,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-09-07,E. coli,41,41.0,,count/100 ml,Excellent
+26132,IESWBWC020_0000_0300,Youghal Front Strand Beach,2022-09-07,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+26123,IESWBWC040_0000_0100,Garryvoe,2022-09-07,E. coli,209,209.0,,count/100 ml,Excellent
+26123,IESWBWC040_0000_0100,Garryvoe,2022-09-07,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+26127,IESWBWC050_0000_0100,Fountainstown,2022-09-07,E. coli,318,318.0,,count/100 ml,Good
+26127,IESWBWC050_0000_0100,Fountainstown,2022-09-07,Intestinal enterococci,170,170.0,,count/100 ml,Good
+26518,BPNBF050000230001,Ring (Greenlands Strand),2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26518,BPNBF050000230001,Ring (Greenlands Strand),2023-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26520,BPNBF050000300001,Oysterhaven,2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26520,BPNBF050000300001,Oysterhaven,2023-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26521,BPNBF050000320001,Rocky Bay,2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26521,BPNBF050000320001,Rocky Bay,2023-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26522,BPNBF050000330001,Ardnahinch,2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26522,BPNBF050000330001,Ardnahinch,2023-05-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+26525,BPNBF050000420001,Ballynamona Strand,2023-05-22,E. coli,10,10.0,,count/100 ml,Excellent
+26525,BPNBF050000420001,Ballynamona Strand,2023-05-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+26503,IESWBWC020_0000_0100,Redbarn,2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26503,IESWBWC020_0000_0100,Redbarn,2023-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26497,IESWBWC020_0000_0200,Youghal Claycastle,2023-05-22,E. coli,10,10.0,,count/100 ml,Excellent
+26497,IESWBWC020_0000_0200,Youghal Claycastle,2023-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26506,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26506,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-05-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26491,IESWBWC040_0000_0100,Garryvoe,2023-05-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+26491,IESWBWC040_0000_0100,Garryvoe,2023-05-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+26499,IESWBWC050_0000_0100,Fountainstown,2023-05-22,E. coli,30,30.0,,count/100 ml,Excellent
+26499,IESWBWC050_0000_0100,Fountainstown,2023-05-22,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+26737,BPNBF050000300001,Oysterhaven,2023-06-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+26737,BPNBF050000300001,Oysterhaven,2023-06-06,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+26738,BPNBF050000320001,Rocky Bay,2023-06-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+26738,BPNBF050000320001,Rocky Bay,2023-06-06,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+26721,IESWBWC050_0000_0100,Fountainstown,2023-06-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+26721,IESWBWC050_0000_0100,Fountainstown,2023-06-06,Intestinal enterococci,38,38.0,,count/100 ml,Excellent
+26851,BPNBF050000230001,Ring (Greenlands Strand),2023-06-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+26851,BPNBF050000230001,Ring (Greenlands Strand),2023-06-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26852,BPNBF050000330001,Ardnahinch,2023-06-12,E. coli,31,31.0,,count/100 ml,Excellent
+26852,BPNBF050000330001,Ardnahinch,2023-06-12,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+26853,BPNBF050000420001,Ballynamona Strand,2023-06-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+26853,BPNBF050000420001,Ballynamona Strand,2023-06-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26848,IESWBWC020_0000_0100,Redbarn,2023-06-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+26848,IESWBWC020_0000_0100,Redbarn,2023-06-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26847,IESWBWC020_0000_0200,Youghal Claycastle,2023-06-12,E. coli,10,10.0,,count/100 ml,Excellent
+26847,IESWBWC020_0000_0200,Youghal Claycastle,2023-06-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+26849,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-06-12,E. coli,10,10.0,,count/100 ml,Excellent
+26849,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-06-12,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+26846,IESWBWC040_0000_0100,Garryvoe,2023-06-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+26846,IESWBWC040_0000_0100,Garryvoe,2023-06-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+27002,IESWBWC050_0000_0100,Fountainstown,2023-06-19,E. coli,10,10.0,,count/100 ml,Excellent
+27002,IESWBWC050_0000_0100,Fountainstown,2023-06-19,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+27164,IESWBWC020_0000_0100,Redbarn,2023-06-26,E. coli,10,10.0,,count/100 ml,Excellent
+27164,IESWBWC020_0000_0100,Redbarn,2023-06-26,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+27163,IESWBWC020_0000_0200,Youghal Claycastle,2023-06-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+27163,IESWBWC020_0000_0200,Youghal Claycastle,2023-06-26,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+27165,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-06-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+27165,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-06-26,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+27162,IESWBWC040_0000_0100,Garryvoe,2023-06-26,E. coli,20,20.0,,count/100 ml,Excellent
+27162,IESWBWC040_0000_0100,Garryvoe,2023-06-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+27317,BPNBF050000300001,Oysterhaven,2023-07-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+27317,BPNBF050000300001,Oysterhaven,2023-07-03,Intestinal enterococci,29,29.0,,count/100 ml,Excellent
+27318,BPNBF050000320001,Rocky Bay,2023-07-03,E. coli,<10,10.0,<,count/100 ml,Excellent
+27318,BPNBF050000320001,Rocky Bay,2023-07-03,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+27311,IESWBWC050_0000_0100,Fountainstown,2023-07-03,E. coli,183,183.0,,count/100 ml,Excellent
+27311,IESWBWC050_0000_0100,Fountainstown,2023-07-03,Intestinal enterococci,63,63.0,,count/100 ml,Excellent
+27576,BPNBF050000230001,Ring (Greenlands Strand),2023-07-17,E. coli,52,52.0,,count/100 ml,Excellent
+27576,BPNBF050000230001,Ring (Greenlands Strand),2023-07-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+27578,BPNBF050000330001,Ardnahinch,2023-07-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+27578,BPNBF050000330001,Ardnahinch,2023-07-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+27580,BPNBF050000420001,Ballynamona Strand,2023-07-17,E. coli,10,10.0,,count/100 ml,Excellent
+27580,BPNBF050000420001,Ballynamona Strand,2023-07-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+27568,IESWBWC020_0000_0100,Redbarn,2023-07-17,E. coli,20,20.0,,count/100 ml,Excellent
+27568,IESWBWC020_0000_0100,Redbarn,2023-07-17,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+27567,IESWBWC020_0000_0200,Youghal Claycastle,2023-07-17,E. coli,10,10.0,,count/100 ml,Excellent
+27567,IESWBWC020_0000_0200,Youghal Claycastle,2023-07-17,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+27570,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-07-17,E. coli,435,435.0,,count/100 ml,Good
+27570,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-07-17,Intestinal enterococci,46,46.0,,count/100 ml,Good
+27565,IESWBWC040_0000_0100,Garryvoe,2023-07-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+27565,IESWBWC040_0000_0100,Garryvoe,2023-07-17,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+27732,BPNBF050000300001,Oysterhaven,2023-07-24,E. coli,63,63.0,,count/100 ml,Excellent
+27732,BPNBF050000300001,Oysterhaven,2023-07-24,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+27733,BPNBF050000320001,Rocky Bay,2023-07-24,E. coli,10,10.0,,count/100 ml,Excellent
+27733,BPNBF050000320001,Rocky Bay,2023-07-24,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+27725,IESWBWC050_0000_0100,Fountainstown,2023-07-24,E. coli,75,75.0,,count/100 ml,Excellent
+27725,IESWBWC050_0000_0100,Fountainstown,2023-07-24,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+29129,BPNBF050000230001,Ring (Greenlands Strand),2023-08-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+29129,BPNBF050000230001,Ring (Greenlands Strand),2023-08-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+29130,BPNBF050000300001,Oysterhaven,2023-08-14,E. coli,63,63.0,,count/100 ml,Excellent
+29130,BPNBF050000300001,Oysterhaven,2023-08-14,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+29131,BPNBF050000320001,Rocky Bay,2023-08-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+29131,BPNBF050000320001,Rocky Bay,2023-08-14,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+29132,BPNBF050000330001,Ardnahinch,2023-08-14,E. coli,10,10.0,,count/100 ml,Excellent
+29132,BPNBF050000330001,Ardnahinch,2023-08-14,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+29134,BPNBF050000420001,Ballynamona Strand,2023-08-14,E. coli,<10,10.0,<,count/100 ml,Excellent
+29134,BPNBF050000420001,Ballynamona Strand,2023-08-14,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+29125,IESWBWC020_0000_0100,Redbarn,2023-08-14,E. coli,10,10.0,,count/100 ml,Excellent
+29125,IESWBWC020_0000_0100,Redbarn,2023-08-14,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+29119,IESWBWC020_0000_0200,Youghal Claycastle,2023-08-14,E. coli,10,10.0,,count/100 ml,Excellent
+29119,IESWBWC020_0000_0200,Youghal Claycastle,2023-08-14,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+29127,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-08-14,E. coli,20,20.0,,count/100 ml,Excellent
+29127,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-08-14,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+29118,IESWBWC040_0000_0100,Garryvoe,2023-08-14,E. coli,52,52.0,,count/100 ml,Excellent
+29118,IESWBWC040_0000_0100,Garryvoe,2023-08-14,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+29121,IESWBWC050_0000_0100,Fountainstown,2023-08-14,E. coli,20,20.0,,count/100 ml,Excellent
+29121,IESWBWC050_0000_0100,Fountainstown,2023-08-14,Intestinal enterococci,17,17.0,,count/100 ml,Excellent
+29355,BPNBF050000300001,Oysterhaven,2023-08-22,E. coli,86,86.0,,count/100 ml,Excellent
+29355,BPNBF050000300001,Oysterhaven,2023-08-22,Intestinal enterococci,63,63.0,,count/100 ml,Excellent
+29356,BPNBF050000320001,Rocky Bay,2023-08-22,E. coli,10,10.0,,count/100 ml,Excellent
+29356,BPNBF050000320001,Rocky Bay,2023-08-22,Intestinal enterococci,<10,10.0,<,count/100 ml,Excellent
+29365,BPNBF050000420001,Ballynamona Strand,2023-08-22,E. coli,31,31.0,,count/100 ml,Excellent
+29365,BPNBF050000420001,Ballynamona Strand,2023-08-22,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+29435,BPNBF050000300001,Oysterhaven,2023-08-28,E. coli,75,75.0,,count/100 ml,Excellent
+29435,BPNBF050000300001,Oysterhaven,2023-08-28,Intestinal enterococci,38,38.0,,count/100 ml,Excellent
+29621,BPNBF050000230001,Ring (Greenlands Strand),2023-09-04,E. coli,145,145.0,,count/100 ml,Excellent
+29621,BPNBF050000230001,Ring (Greenlands Strand),2023-09-04,Intestinal enterococci,62,62.0,,count/100 ml,Excellent
+29605,BPNBF050000300001,Oysterhaven,2023-09-04,E. coli,<10,10.0,<,count/100 ml,Excellent
+29605,BPNBF050000300001,Oysterhaven,2023-09-04,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+29606,BPNBF050000330001,Ardnahinch,2023-09-04,E. coli,52,52.0,,count/100 ml,Excellent
+29606,BPNBF050000330001,Ardnahinch,2023-09-04,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
+29609,BPNBF050000420001,Ballynamona Strand,2023-09-04,E. coli,41,41.0,,count/100 ml,Excellent
+29609,BPNBF050000420001,Ballynamona Strand,2023-09-04,Intestinal enterococci,40,40.0,,count/100 ml,Excellent
+29594,IESWBWC020_0000_0100,Redbarn,2023-09-04,E. coli,73,73.0,,count/100 ml,Excellent
+29594,IESWBWC020_0000_0100,Redbarn,2023-09-04,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+29588,IESWBWC020_0000_0200,Youghal Claycastle,2023-09-04,E. coli,52,52.0,,count/100 ml,Excellent
+29588,IESWBWC020_0000_0200,Youghal Claycastle,2023-09-04,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+29597,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-09-04,E. coli,98,98.0,,count/100 ml,Excellent
+29597,IESWBWC020_0000_0300,Youghal Front Strand Beach,2023-09-04,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+29586,IESWBWC040_0000_0100,Garryvoe,2023-09-04,E. coli,52,52.0,,count/100 ml,Excellent
+29586,IESWBWC040_0000_0100,Garryvoe,2023-09-04,Intestinal enterococci,33,33.0,,count/100 ml,Excellent
+29590,IESWBWC050_0000_0100,Fountainstown,2023-09-04,E. coli,41,41.0,,count/100 ml,Excellent
+29590,IESWBWC050_0000_0100,Fountainstown,2023-09-04,Intestinal enterococci,49,49.0,,count/100 ml,Excellent
+30306,BPNBF050000230001,Ring (Greenlands Strand),2024-05-27,E. coli,61,61.0,,count/100 ml,Excellent
+30306,BPNBF050000230001,Ring (Greenlands Strand),2024-05-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+30308,BPNBF050000300001,Oysterhaven,2024-05-27,E. coli,134,134.0,,count/100 ml,Excellent
+30308,BPNBF050000300001,Oysterhaven,2024-05-27,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+30309,BPNBF050000320001,Rocky Bay,2024-05-27,E. coli,10,10.0,,count/100 ml,Excellent
+30309,BPNBF050000320001,Rocky Bay,2024-05-27,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+30310,BPNBF050000330001,Ardnahinch,2024-05-27,E. coli,110,110.0,,count/100 ml,Excellent
+30310,BPNBF050000330001,Ardnahinch,2024-05-27,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+30313,BPNBF050000420001,Ballynamona Strand,2024-05-27,E. coli,84,84.0,,count/100 ml,Excellent
+30313,BPNBF050000420001,Ballynamona Strand,2024-05-27,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+30296,IESWBWC020_0000_0100,Redbarn,2024-05-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+30296,IESWBWC020_0000_0100,Redbarn,2024-05-27,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+30290,IESWBWC020_0000_0200,Youghal Claycastle,2024-05-27,E. coli,63,63.0,,count/100 ml,Excellent
+30290,IESWBWC020_0000_0200,Youghal Claycastle,2024-05-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+30299,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-05-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+30299,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-05-27,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+30288,IESWBWC040_0000_0100,Garryvoe,2024-05-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+30288,IESWBWC040_0000_0100,Garryvoe,2024-05-27,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+30292,IESWBWC050_0000_0100,Fountainstown,2024-05-27,E. coli,108,108.0,,count/100 ml,Excellent
+30292,IESWBWC050_0000_0100,Fountainstown,2024-05-27,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+30594,BPNBF050000300001,Oysterhaven,2024-06-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+30594,BPNBF050000300001,Oysterhaven,2024-06-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+30595,BPNBF050000320001,Rocky Bay,2024-06-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+30595,BPNBF050000320001,Rocky Bay,2024-06-10,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+30584,IESWBWC050_0000_0100,Fountainstown,2024-06-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+30584,IESWBWC050_0000_0100,Fountainstown,2024-06-10,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+30807,IESWBWC020_0000_0100,Redbarn,2024-06-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+30807,IESWBWC020_0000_0100,Redbarn,2024-06-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+30806,IESWBWC020_0000_0200,Youghal Claycastle,2024-06-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+30806,IESWBWC020_0000_0200,Youghal Claycastle,2024-06-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+30809,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-06-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+30809,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-06-17,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+30804,IESWBWC040_0000_0100,Garryvoe,2024-06-17,E. coli,402,402.0,,count/100 ml,Good
+30804,IESWBWC040_0000_0100,Garryvoe,2024-06-17,Intestinal enterococci,52,52.0,,count/100 ml,Good
+31004,BPNBF050000300001,Oysterhaven,2024-07-01,E. coli,20,20.0,,count/100 ml,Excellent
+31004,BPNBF050000300001,Oysterhaven,2024-07-01,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+31005,BPNBF050000320001,Rocky Bay,2024-07-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+31005,BPNBF050000320001,Rocky Bay,2024-07-01,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+30998,IESWBWC050_0000_0100,Fountainstown,2024-07-01,E. coli,52,52.0,,count/100 ml,Excellent
+30998,IESWBWC050_0000_0100,Fountainstown,2024-07-01,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+31082,BPNBF050000230001,Ring (Greenlands Strand),2024-07-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+31082,BPNBF050000230001,Ring (Greenlands Strand),2024-07-08,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+31083,BPNBF050000330001,Ardnahinch,2024-07-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+31083,BPNBF050000330001,Ardnahinch,2024-07-08,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+31084,BPNBF050000420001,Ballynamona Strand,2024-07-08,E. coli,10,10.0,,count/100 ml,Excellent
+31084,BPNBF050000420001,Ballynamona Strand,2024-07-08,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+31079,IESWBWC020_0000_0100,Redbarn,2024-07-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+31079,IESWBWC020_0000_0100,Redbarn,2024-07-08,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+31078,IESWBWC020_0000_0200,Youghal Claycastle,2024-07-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+31078,IESWBWC020_0000_0200,Youghal Claycastle,2024-07-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+31080,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-07-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+31080,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-07-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+31077,IESWBWC040_0000_0100,Garryvoe,2024-07-08,E. coli,350,350.0,,count/100 ml,Good
+31077,IESWBWC040_0000_0100,Garryvoe,2024-07-08,Intestinal enterococci,15,15.0,,count/100 ml,Good
+31382,BPNBF050000300001,Oysterhaven,2024-07-22,E. coli,20,20.0,,count/100 ml,Excellent
+31382,BPNBF050000300001,Oysterhaven,2024-07-22,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+31383,BPNBF050000320001,Rocky Bay,2024-07-22,E. coli,20,20.0,,count/100 ml,Excellent
+31383,BPNBF050000320001,Rocky Bay,2024-07-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+31376,IESWBWC050_0000_0100,Fountainstown,2024-07-22,E. coli,20,20.0,,count/100 ml,Excellent
+31376,IESWBWC050_0000_0100,Fountainstown,2024-07-22,Intestinal enterococci,21,21.0,,count/100 ml,Excellent
+31474,BPNBF050000230001,Ring (Greenlands Strand),2024-07-29,E. coli,10,10.0,,count/100 ml,Excellent
+31474,BPNBF050000230001,Ring (Greenlands Strand),2024-07-29,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+31475,BPNBF050000330001,Ardnahinch,2024-07-29,E. coli,41,41.0,,count/100 ml,Excellent
+31475,BPNBF050000330001,Ardnahinch,2024-07-29,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+31478,BPNBF050000420001,Ballynamona Strand,2024-07-29,E. coli,<10,10.0,<,count/100 ml,Excellent
+31478,BPNBF050000420001,Ballynamona Strand,2024-07-29,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+31471,IESWBWC020_0000_0100,Redbarn,2024-07-29,E. coli,<10,10.0,<,count/100 ml,Excellent
+31471,IESWBWC020_0000_0100,Redbarn,2024-07-29,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+31470,IESWBWC020_0000_0200,Youghal Claycastle,2024-07-29,E. coli,233,233.0,,count/100 ml,Excellent
+31470,IESWBWC020_0000_0200,Youghal Claycastle,2024-07-29,Intestinal enterococci,16,16.0,,count/100 ml,Excellent
+31472,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-07-29,E. coli,10,10.0,,count/100 ml,Excellent
+31472,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-07-29,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+31466,IESWBWC040_0000_0100,Garryvoe,2024-07-29,E. coli,41,41.0,,count/100 ml,Excellent
+31466,IESWBWC040_0000_0100,Garryvoe,2024-07-29,Intestinal enterococci,8,8.0,,count/100 ml,Excellent
+31605,IESWBWC050_0000_0100,Fountainstown,2024-08-06,E. coli,<10,10.0,<,count/100 ml,Excellent
+31605,IESWBWC050_0000_0100,Fountainstown,2024-08-06,Intestinal enterococci,28,28.0,,count/100 ml,Excellent
+31724,BPNBF050000230001,Ring (Greenlands Strand),2024-08-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+31724,BPNBF050000230001,Ring (Greenlands Strand),2024-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+31725,BPNBF050000300001,Oysterhaven,2024-08-12,E. coli,31,31.0,,count/100 ml,Excellent
+31725,BPNBF050000300001,Oysterhaven,2024-08-12,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+31726,BPNBF050000320001,Rocky Bay,2024-08-12,E. coli,10,10.0,,count/100 ml,Excellent
+31726,BPNBF050000320001,Rocky Bay,2024-08-12,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+31727,BPNBF050000330001,Ardnahinch,2024-08-12,E. coli,31,31.0,,count/100 ml,Excellent
+31727,BPNBF050000330001,Ardnahinch,2024-08-12,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+31729,BPNBF050000420001,Ballynamona Strand,2024-08-12,E. coli,20,20.0,,count/100 ml,Excellent
+31729,BPNBF050000420001,Ballynamona Strand,2024-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+31720,IESWBWC020_0000_0100,Redbarn,2024-08-12,E. coli,10,10.0,,count/100 ml,Excellent
+31720,IESWBWC020_0000_0100,Redbarn,2024-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+31714,IESWBWC020_0000_0200,Youghal Claycastle,2024-08-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+31714,IESWBWC020_0000_0200,Youghal Claycastle,2024-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+31722,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-08-12,E. coli,<10,10.0,<,count/100 ml,Excellent
+31722,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+31713,IESWBWC040_0000_0100,Garryvoe,2024-08-12,E. coli,10,10.0,,count/100 ml,Excellent
+31713,IESWBWC040_0000_0100,Garryvoe,2024-08-12,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+31716,IESWBWC050_0000_0100,Fountainstown,2024-08-12,E. coli,20,20.0,,count/100 ml,Excellent
+31716,IESWBWC050_0000_0100,Fountainstown,2024-08-12,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+32184,BPNBF050000230001,Ring (Greenlands Strand),2024-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+32184,BPNBF050000230001,Ring (Greenlands Strand),2024-09-02,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32186,BPNBF050000300001,Oysterhaven,2024-09-02,E. coli,63,63.0,,count/100 ml,Excellent
+32186,BPNBF050000300001,Oysterhaven,2024-09-02,Intestinal enterococci,66,66.0,,count/100 ml,Excellent
+32187,BPNBF050000330001,Ardnahinch,2024-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+32187,BPNBF050000330001,Ardnahinch,2024-09-02,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32190,BPNBF050000420001,Ballynamona Strand,2024-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+32190,BPNBF050000420001,Ballynamona Strand,2024-09-02,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32174,IESWBWC020_0000_0100,Redbarn,2024-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+32174,IESWBWC020_0000_0100,Redbarn,2024-09-02,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32168,IESWBWC020_0000_0200,Youghal Claycastle,2024-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+32168,IESWBWC020_0000_0200,Youghal Claycastle,2024-09-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+32177,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+32177,IESWBWC020_0000_0300,Youghal Front Strand Beach,2024-09-02,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+32166,IESWBWC040_0000_0100,Garryvoe,2024-09-02,E. coli,<10,10.0,<,count/100 ml,Excellent
+32166,IESWBWC040_0000_0100,Garryvoe,2024-09-02,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32170,IESWBWC050_0000_0100,Fountainstown,2024-09-02,E. coli,10,10.0,,count/100 ml,Excellent
+32170,IESWBWC050_0000_0100,Fountainstown,2024-09-02,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+32903,BPNBF050000230001,Ring (Greenlands Strand),2025-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+32903,BPNBF050000230001,Ring (Greenlands Strand),2025-05-26,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32905,BPNBF050000300001,Oysterhaven,2025-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+32905,BPNBF050000300001,Oysterhaven,2025-05-26,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+32906,BPNBF050000320001,Rocky Bay,2025-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+32906,BPNBF050000320001,Rocky Bay,2025-05-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+32907,BPNBF050000330001,Ardnahinch,2025-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+32907,BPNBF050000330001,Ardnahinch,2025-05-26,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+32927,BPNBF050000420001,Ballynamona Strand,2025-05-26,E. coli,20,20.0,,count/100 ml,Excellent
+32927,BPNBF050000420001,Ballynamona Strand,2025-05-26,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+32894,IESWBWC020_0000_0100,Redbarn,2025-05-26,E. coli,20,20.0,,count/100 ml,Excellent
+32894,IESWBWC020_0000_0100,Redbarn,2025-05-26,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+32889,IESWBWC020_0000_0200,Youghal Claycastle,2025-05-26,E. coli,<10,10.0,<,count/100 ml,Excellent
+32889,IESWBWC020_0000_0200,Youghal Claycastle,2025-05-26,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+32884,IESWBWC040_0000_0100,Garryvoe,2025-05-26,E. coli,98,98.0,,count/100 ml,Excellent
+32884,IESWBWC040_0000_0100,Garryvoe,2025-05-26,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+32890,IESWBWC050_0000_0100,Fountainstown,2025-05-26,E. coli,231,231.0,,count/100 ml,Excellent
+32890,IESWBWC050_0000_0100,Fountainstown,2025-05-26,Intestinal enterococci,50,50.0,,count/100 ml,Excellent
+32897,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-05-27,E. coli,20,20.0,,count/100 ml,Excellent
+32897,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-05-27,Intestinal enterococci,44,44.0,,count/100 ml,Excellent
+33145,BPNBF050000300001,Oysterhaven,2025-06-09,E. coli,<10,10.0,<,count/100 ml,Excellent
+33145,BPNBF050000300001,Oysterhaven,2025-06-09,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+33146,BPNBF050000320001,Rocky Bay,2025-06-09,E. coli,31,31.0,,count/100 ml,Excellent
+33146,BPNBF050000320001,Rocky Bay,2025-06-09,Intestinal enterococci,11,11.0,,count/100 ml,Excellent
+33139,IESWBWC050_0000_0100,Fountainstown,2025-06-09,E. coli,10,10.0,,count/100 ml,Excellent
+33139,IESWBWC050_0000_0100,Fountainstown,2025-06-09,Intestinal enterococci,19,19.0,,count/100 ml,Excellent
+33391,IESWBWC020_0000_0100,Redbarn,2025-06-16,E. coli,<10,10.0,<,count/100 ml,Excellent
+33391,IESWBWC020_0000_0100,Redbarn,2025-06-16,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+33381,IESWBWC020_0000_0200,Youghal Claycastle,2025-06-16,E. coli,<10,10.0,<,count/100 ml,Excellent
+33381,IESWBWC020_0000_0200,Youghal Claycastle,2025-06-16,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+33385,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-06-16,E. coli,20,20.0,,count/100 ml,Excellent
+33385,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-06-16,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+33379,IESWBWC040_0000_0100,Garryvoe,2025-06-16,E. coli,<10,10.0,<,count/100 ml,Excellent
+33379,IESWBWC040_0000_0100,Garryvoe,2025-06-16,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+33619,BPNBF050000230001,Ring (Greenlands Strand),2025-06-30,E. coli,<10,10.0,<,count/100 ml,Excellent
+33619,BPNBF050000230001,Ring (Greenlands Strand),2025-06-30,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+33620,BPNBF050000300001,Oysterhaven,2025-06-30,E. coli,<10,10.0,<,count/100 ml,Excellent
+33620,BPNBF050000300001,Oysterhaven,2025-06-30,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+33621,BPNBF050000320001,Rocky Bay,2025-06-30,E. coli,10,10.0,,count/100 ml,Excellent
+33621,BPNBF050000320001,Rocky Bay,2025-06-30,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+33622,BPNBF050000330001,Ardnahinch,2025-06-30,E. coli,10,10.0,,count/100 ml,Excellent
+33622,BPNBF050000330001,Ardnahinch,2025-06-30,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+33624,BPNBF050000420001,Ballynamona Strand,2025-06-30,E. coli,10,10.0,,count/100 ml,Excellent
+33624,BPNBF050000420001,Ballynamona Strand,2025-06-30,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+33608,IESWBWC020_0000_0200,Youghal Claycastle,2025-06-30,E. coli,<10,10.0,<,count/100 ml,Excellent
+33608,IESWBWC020_0000_0200,Youghal Claycastle,2025-06-30,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+33609,IESWBWC050_0000_0100,Fountainstown,2025-06-30,E. coli,63,63.0,,count/100 ml,Excellent
+33609,IESWBWC050_0000_0100,Fountainstown,2025-06-30,Intestinal enterococci,60,60.0,,count/100 ml,Excellent
+34697,IESWBWC020_0000_0100,Redbarn,2025-07-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+34697,IESWBWC020_0000_0100,Redbarn,2025-07-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+34696,IESWBWC020_0000_0200,Youghal Claycastle,2025-07-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+34696,IESWBWC020_0000_0200,Youghal Claycastle,2025-07-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+34698,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-07-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+34698,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-07-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+34695,IESWBWC040_0000_0100,Garryvoe,2025-07-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+34695,IESWBWC040_0000_0100,Garryvoe,2025-07-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+35033,BPNBF050000300001,Oysterhaven,2025-07-21,E. coli,41,41.0,,count/100 ml,Excellent
+35033,BPNBF050000300001,Oysterhaven,2025-07-21,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+35034,BPNBF050000320001,Rocky Bay,2025-07-21,E. coli,41,41.0,,count/100 ml,Excellent
+35034,BPNBF050000320001,Rocky Bay,2025-07-21,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+35027,IESWBWC050_0000_0100,Fountainstown,2025-07-21,E. coli,<10,10.0,<,count/100 ml,Excellent
+35027,IESWBWC050_0000_0100,Fountainstown,2025-07-21,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+35208,BPNBF050000230001,Ring (Greenlands Strand),2025-07-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+35208,BPNBF050000230001,Ring (Greenlands Strand),2025-07-28,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+35209,BPNBF050000330001,Ardnahinch,2025-07-28,E. coli,10,10.0,,count/100 ml,Excellent
+35209,BPNBF050000330001,Ardnahinch,2025-07-28,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+35210,BPNBF050000420001,Ballynamona Strand,2025-07-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+35210,BPNBF050000420001,Ballynamona Strand,2025-07-28,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+35206,IESWBWC020_0000_0100,Redbarn,2025-07-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+35206,IESWBWC020_0000_0100,Redbarn,2025-07-28,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+35205,IESWBWC020_0000_0200,Youghal Claycastle,2025-07-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+35205,IESWBWC020_0000_0200,Youghal Claycastle,2025-07-28,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+35207,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-07-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+35207,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-07-28,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+35204,IESWBWC040_0000_0100,Garryvoe,2025-07-28,E. coli,<10,10.0,<,count/100 ml,Excellent
+35204,IESWBWC040_0000_0100,Garryvoe,2025-07-28,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+35542,IESWBWC050_0000_0100,Fountainstown,2025-08-11,E. coli,52,52.0,,count/100 ml,Good
+35542,IESWBWC050_0000_0100,Fountainstown,2025-08-11,Intestinal enterococci,114,114.0,,count/100 ml,Good
+35595,BPNBF050000230001,Ring (Greenlands Strand),2025-08-18,E. coli,20,20.0,,count/100 ml,Excellent
+35595,BPNBF050000230001,Ring (Greenlands Strand),2025-08-18,Intestinal enterococci,24,24.0,,count/100 ml,Excellent
+35596,BPNBF050000300001,Oysterhaven,2025-08-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+35596,BPNBF050000300001,Oysterhaven,2025-08-18,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+35597,BPNBF050000320001,Rocky Bay,2025-08-18,E. coli,10,10.0,,count/100 ml,Excellent
+35597,BPNBF050000320001,Rocky Bay,2025-08-18,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+35598,BPNBF050000330001,Ardnahinch,2025-08-18,E. coli,512,512.0,,count/100 ml,Sufficient
+35598,BPNBF050000330001,Ardnahinch,2025-08-18,Intestinal enterococci,>100,100.0,>,count/100 ml,Sufficient
+35600,BPNBF050000420001,Ballynamona Strand,2025-08-18,E. coli,30,30.0,,count/100 ml,Excellent
+35600,BPNBF050000420001,Ballynamona Strand,2025-08-18,Intestinal enterococci,9,9.0,,count/100 ml,Excellent
+35591,IESWBWC020_0000_0100,Redbarn,2025-08-18,E. coli,30,30.0,,count/100 ml,Excellent
+35591,IESWBWC020_0000_0100,Redbarn,2025-08-18,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+35588,IESWBWC020_0000_0200,Youghal Claycastle,2025-08-18,E. coli,<10,10.0,<,count/100 ml,Excellent
+35588,IESWBWC020_0000_0200,Youghal Claycastle,2025-08-18,Intestinal enterococci,40,40.0,,count/100 ml,Excellent
+35593,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-08-18,E. coli,41,41.0,,count/100 ml,Excellent
+35593,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-08-18,Intestinal enterococci,25,25.0,,count/100 ml,Excellent
+35587,IESWBWC040_0000_0100,Garryvoe,2025-08-18,E. coli,120,120.0,,count/100 ml,Excellent
+35587,IESWBWC040_0000_0100,Garryvoe,2025-08-18,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+35589,IESWBWC050_0000_0100,Fountainstown,2025-08-18,E. coli,31,31.0,,count/100 ml,Excellent
+35589,IESWBWC050_0000_0100,Fountainstown,2025-08-18,Intestinal enterococci,26,26.0,,count/100 ml,Excellent
+37244,BPNBF050000230001,Ring (Greenlands Strand),2025-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+37244,BPNBF050000230001,Ring (Greenlands Strand),2025-09-01,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+37246,BPNBF050000300001,Oysterhaven,2025-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+37246,BPNBF050000300001,Oysterhaven,2025-09-01,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+37247,BPNBF050000330001,Ardnahinch,2025-09-01,E. coli,10,10.0,,count/100 ml,Excellent
+37247,BPNBF050000330001,Ardnahinch,2025-09-01,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+37249,BPNBF050000420001,Ballynamona Strand,2025-09-01,E. coli,97,97.0,,count/100 ml,Excellent
+37249,BPNBF050000420001,Ballynamona Strand,2025-09-01,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+35882,IESWBWC020_0000_0100,Redbarn,2025-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+35882,IESWBWC020_0000_0100,Redbarn,2025-09-01,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+35877,IESWBWC020_0000_0200,Youghal Claycastle,2025-09-01,E. coli,20,20.0,,count/100 ml,Excellent
+35877,IESWBWC020_0000_0200,Youghal Claycastle,2025-09-01,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+35885,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-09-01,E. coli,10,10.0,,count/100 ml,Excellent
+35885,IESWBWC020_0000_0300,Youghal Front Strand Beach,2025-09-01,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+35875,IESWBWC040_0000_0100,Garryvoe,2025-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+35875,IESWBWC040_0000_0100,Garryvoe,2025-09-01,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+35878,IESWBWC050_0000_0100,Fountainstown,2025-09-01,E. coli,20,20.0,,count/100 ml,Excellent
+35878,IESWBWC050_0000_0100,Fountainstown,2025-09-01,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+37552,BPNBF050000230001,Ring (Greenlands Strand),2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37552,BPNBF050000230001,Ring (Greenlands Strand),2026-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+37554,BPNBF050000300001,Oysterhaven,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37554,BPNBF050000300001,Oysterhaven,2026-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+37555,BPNBF050000320001,Rocky Bay,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37555,BPNBF050000320001,Rocky Bay,2026-05-25,Intestinal enterococci,5,5.0,,count/100 ml,Excellent
+37556,BPNBF050000330001,Ardnahinch,2026-05-25,E. coli,20,20.0,,count/100 ml,Excellent
+37556,BPNBF050000330001,Ardnahinch,2026-05-25,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+37558,BPNBF050000420001,Ballynamona Strand,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37558,BPNBF050000420001,Ballynamona Strand,2026-05-25,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+37466,IESWBWC020_0000_0100,Redbarn,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37466,IESWBWC020_0000_0100,Redbarn,2026-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+37464,IESWBWC020_0000_0200,Youghal Claycastle,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37464,IESWBWC020_0000_0200,Youghal Claycastle,2026-05-25,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+37468,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37468,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-05-25,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+37448,IESWBWC040_0000_0100,Garryvoe,2026-05-25,E. coli,<10,10.0,<,count/100 ml,Excellent
+37448,IESWBWC040_0000_0100,Garryvoe,2026-05-25,Intestinal enterococci,74,74.0,,count/100 ml,Excellent
+37465,IESWBWC050_0000_0100,Fountainstown,2026-05-25,E. coli,41,41.0,,count/100 ml,Excellent
+37465,IESWBWC050_0000_0100,Fountainstown,2026-05-25,Intestinal enterococci,44,44.0,,count/100 ml,Excellent
+37662,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-05-26,E. coli,10,10.0,,count/100 ml,Excellent
+37662,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-05-26,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+37821,IESWBWC050_0000_0100,Fountainstown,2026-06-08,E. coli,10,10.0,,count/100 ml,Excellent
+37821,IESWBWC050_0000_0100,Fountainstown,2026-06-08,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+37842,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-06-08,E. coli,<10,10.0,<,count/100 ml,Excellent
+37842,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-06-08,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+38093,BPNBF050000230001,Ring (Greenlands Strand),2026-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+38093,BPNBF050000230001,Ring (Greenlands Strand),2026-06-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+38094,BPNBF050000300001,Oysterhaven,2026-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+38094,BPNBF050000300001,Oysterhaven,2026-06-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+38095,BPNBF050000320001,Rocky Bay,2026-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+38095,BPNBF050000320001,Rocky Bay,2026-06-22,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+38096,BPNBF050000330001,Ardnahinch,2026-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+38096,BPNBF050000330001,Ardnahinch,2026-06-22,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+38103,BPNBF050000420001,Ballynamona Strand,2026-06-22,E. coli,10,10.0,,count/100 ml,Excellent
+38103,BPNBF050000420001,Ballynamona Strand,2026-06-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+38089,IESWBWC020_0000_0100,Redbarn,2026-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+38089,IESWBWC020_0000_0100,Redbarn,2026-06-22,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+38086,IESWBWC020_0000_0200,Youghal Claycastle,2026-06-22,E. coli,10,10.0,,count/100 ml,Excellent
+38086,IESWBWC020_0000_0200,Youghal Claycastle,2026-06-22,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+38090,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-06-22,E. coli,<10,10.0,<,count/100 ml,Excellent
+38090,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-06-22,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+38071,IESWBWC040_0000_0100,Garryvoe,2026-06-22,E. coli,10,10.0,,count/100 ml,Excellent
+38071,IESWBWC040_0000_0100,Garryvoe,2026-06-22,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+38230,IESWBWC050_0000_0100,Fountainstown,2026-06-29,E. coli,20,20.0,,count/100 ml,Excellent
+38230,IESWBWC050_0000_0100,Fountainstown,2026-06-29,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+38234,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-06-29,E. coli,10,10.0,,count/100 ml,Excellent
+38234,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-06-29,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+38476,BPNBF050000230001,Ring (Greenlands Strand),2026-07-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+38476,BPNBF050000230001,Ring (Greenlands Strand),2026-07-13,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+38478,BPNBF050000330001,Ardnahinch,2026-07-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+38478,BPNBF050000330001,Ardnahinch,2026-07-13,Intestinal enterococci,3,3.0,,count/100 ml,Excellent
+38481,BPNBF050000420001,Ballynamona Strand,2026-07-13,E. coli,63,63.0,,count/100 ml,Excellent
+38481,BPNBF050000420001,Ballynamona Strand,2026-07-13,Intestinal enterococci,27,27.0,,count/100 ml,Excellent
+38469,IESWBWC020_0000_0100,Redbarn,2026-07-13,E. coli,74,74.0,,count/100 ml,Excellent
+38469,IESWBWC020_0000_0100,Redbarn,2026-07-13,Intestinal enterococci,10,10.0,,count/100 ml,Excellent
+38468,IESWBWC020_0000_0200,Youghal Claycastle,2026-07-13,E. coli,<10,10.0,<,count/100 ml,Excellent
+38468,IESWBWC020_0000_0200,Youghal Claycastle,2026-07-13,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+38471,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-07-13,E. coli,20,20.0,,count/100 ml,Excellent
+38471,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-07-13,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+38466,IESWBWC040_0000_0100,Garryvoe,2026-07-13,E. coli,122,122.0,,count/100 ml,Excellent
+38466,IESWBWC040_0000_0100,Garryvoe,2026-07-13,Intestinal enterococci,20,20.0,,count/100 ml,Excellent
+38680,BPNBF050000300001,Oysterhaven,2026-07-20,E. coli,<10,10.0,<,count/100 ml,Excellent
+38680,BPNBF050000300001,Oysterhaven,2026-07-20,Intestinal enterococci,18,18.0,,count/100 ml,Excellent
+38681,BPNBF050000320001,Rocky Bay,2026-07-20,E. coli,<10,10.0,<,count/100 ml,Excellent
+38681,BPNBF050000320001,Rocky Bay,2026-07-20,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+38674,IESWBWC050_0000_0100,Fountainstown,2026-07-20,E. coli,20,20.0,,count/100 ml,Excellent
+38674,IESWBWC050_0000_0100,Fountainstown,2026-07-20,Intestinal enterococci,12,12.0,,count/100 ml,Excellent
+38770,IESWBWC050_0000_0100,Fountainstown,2026-07-27,E. coli,20,20.0,,count/100 ml,Excellent
+38770,IESWBWC050_0000_0100,Fountainstown,2026-07-27,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+39377,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-07-27,E. coli,<10,10.0,<,count/100 ml,Excellent
+39377,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-07-27,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+38998,BPNBF050000230001,Ring (Greenlands Strand),2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+38998,BPNBF050000230001,Ring (Greenlands Strand),2026-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39000,BPNBF050000330001,Ardnahinch,2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+39000,BPNBF050000330001,Ardnahinch,2026-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39009,BPNBF050000420001,Ballynamona Strand,2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+39009,BPNBF050000420001,Ballynamona Strand,2026-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+38987,IESWBWC020_0000_0100,Redbarn,2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+38987,IESWBWC020_0000_0100,Redbarn,2026-08-10,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+38986,IESWBWC020_0000_0200,Youghal Claycastle,2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+38986,IESWBWC020_0000_0200,Youghal Claycastle,2026-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+38989,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+38989,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-08-10,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+38970,IESWBWC040_0000_0100,Garryvoe,2026-08-10,E. coli,<10,10.0,<,count/100 ml,Excellent
+38970,IESWBWC040_0000_0100,Garryvoe,2026-08-10,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39173,BPNBF050000300001,Oysterhaven,2026-08-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+39173,BPNBF050000300001,Oysterhaven,2026-08-17,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+39174,BPNBF050000320001,Rocky Bay,2026-08-17,E. coli,<10,10.0,<,count/100 ml,Excellent
+39174,BPNBF050000320001,Rocky Bay,2026-08-17,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39167,IESWBWC050_0000_0100,Fountainstown,2026-08-17,E. coli,20,20.0,,count/100 ml,Excellent
+39167,IESWBWC050_0000_0100,Fountainstown,2026-08-17,Intestinal enterococci,7,7.0,,count/100 ml,Excellent
+39378,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-08-24,E. coli,10,10.0,,count/100 ml,Excellent
+39378,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-08-24,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39495,BPNBF050000300001,Oysterhaven,2026-09-01,E. coli,10,10.0,,count/100 ml,Excellent
+39495,BPNBF050000300001,Oysterhaven,2026-09-01,Intestinal enterococci,49,49.0,,count/100 ml,Excellent
+39496,BPNBF050000320001,Rocky Bay,2026-09-01,E. coli,10,10.0,,count/100 ml,Excellent
+39496,BPNBF050000320001,Rocky Bay,2026-09-01,Intestinal enterococci,4,4.0,,count/100 ml,Excellent
+39480,IESWBWC050_0000_0100,Fountainstown,2026-09-01,E. coli,<10,10.0,<,count/100 ml,Excellent
+39480,IESWBWC050_0000_0100,Fountainstown,2026-09-01,Intestinal enterococci,14,14.0,,count/100 ml,Excellent
+39575,BPNBF050000230001,Ring (Greenlands Strand),2026-09-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+39575,BPNBF050000230001,Ring (Greenlands Strand),2026-09-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39577,BPNBF050000330001,Ardnahinch,2026-09-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+39577,BPNBF050000330001,Ardnahinch,2026-09-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39579,BPNBF050000420001,Ballynamona Strand,2026-09-07,E. coli,31,31.0,,count/100 ml,Excellent
+39579,BPNBF050000420001,Ballynamona Strand,2026-09-07,Intestinal enterococci,<1,1.0,<,count/100 ml,Excellent
+39568,IESWBWC020_0000_0100,Redbarn,2026-09-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+39568,IESWBWC020_0000_0100,Redbarn,2026-09-07,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+39567,IESWBWC020_0000_0200,Youghal Claycastle,2026-09-07,E. coli,<10,10.0,<,count/100 ml,Excellent
+39567,IESWBWC020_0000_0200,Youghal Claycastle,2026-09-07,Intestinal enterococci,2,2.0,,count/100 ml,Excellent
+39570,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-09-07,E. coli,20,20.0,,count/100 ml,Excellent
+39570,IESWBWC020_0000_0300,Youghal Front Strand Beach,2026-09-07,Intestinal enterococci,1,1.0,,count/100 ml,Excellent
+39562,IESWBWC040_0000_0100,Garryvoe,2026-09-07,E. coli,20,20.0,,count/100 ml,Excellent
+39562,IESWBWC040_0000_0100,Garryvoe,2026-09-07,Intestinal enterococci,13,13.0,,count/100 ml,Excellent
+39581,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-09-07,E. coli,41,41.0,,count/100 ml,Excellent
+39581,IESWBWC050_0000_0300,WhiteBay Beach Whitegate Midleton,2026-09-07,Intestinal enterococci,6,6.0,,count/100 ml,Excellent
