@@ -1,6 +1,12 @@
-# RunoffPulse Ireland
+# 🌊 RunoffPulse Ireland
 
-**From Rainfall to Coastal Risk, Before It Becomes a Bigger Problem.**
+[![Ocean Hackathon Winner](https://img.shields.io/badge/Ocean_Hackathon_Cork-3rd_Place_Winner_🥉-blue?style=for-the-badge&logo=github)](https://github.com/surya182003/runoff-pulse-ireland)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+
+> **🏆 Awarded 3rd Place at Ocean Hackathon Cork!**  
+> **From Rainfall to Coastal Risk, Before It Becomes a Bigger Problem.**
 
 A decision-support prototype for Cork Harbour and the River Lee catchment (EPA WFD Catchment 19,
 "Lee, Cork Harbour and Youghal Bay"). It combines real environmental data, an explainable runoff-risk
